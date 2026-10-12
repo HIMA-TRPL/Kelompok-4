@@ -75,7 +75,7 @@
 * **Fun Fact:**  Anda kenal saya tau sendiri
 
 ### [07] 264311031 - AHMAD MUJADID MUSYAFI'I
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311031_JADID.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311031_JADID.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** AHMAD MUJADID MUSYAFI'I
 * **NIM:** 264311031
 * **TTL:** MAGETAN, 9 DESEMBER 2007
@@ -86,7 +86,7 @@
 * **Fun Fact:** gk kuat makan makanan pedas
 
 ### [07] 264311040 - FAIRUZ NADHIR RAHMAD
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311040_FAIRUZ.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311040_FAIRUZ.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:**  FAIRUZ NADHIR RAHMAD
 * **NIM:**  264311040
 * **TTL:** MADIUN, 02 APRIL 2008
