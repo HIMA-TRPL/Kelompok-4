@@ -151,16 +151,16 @@
 * **Asal Sekolah:** SMK TELKOM MALANG
 * **Fun Fact:** Berani Beda
 
-### [11] 264311043 - GLENDY DEVANNO ARDIANSYAH PUTRA
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311043_Glendy.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** GLENDY DEVANNO ARDIANSYAH PUTRA
-* **NIM:** 264311043
-* **TTL:** PONOROGO, 25 OKTOBER 2007
-* **Nomer Handphone:** 083845992818
-* **Nama Kelompok:** ANGULAR
-* **Asal Daerah:** PONOROGO
-* **Asal Sekolah:** SMKN 1 JENANGAN 
-* **Fun Fact:** Anda kenal saya tau sendiri
+### [11] 264311040 - Fairuz Nadhir Rahmad
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311040_Fairuz.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Fairuz Nadhir Rahmad
+* **NIM:** 264311040
+* **TTL:** Madiun, 02 April 2008
+* **Nomer Handphone:** 08976381168
+* **Nama Kelompok:** RAILS
+* **Asal Daerah:** Madiun
+* **Asal Sekolah:** SMAN 2 Kota Madiun 
+* **Fun Fact:** Malas merah
 
 ### [12] 264311048 - Muhammad Amirul Hafidz 
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311048_Hapiz.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
