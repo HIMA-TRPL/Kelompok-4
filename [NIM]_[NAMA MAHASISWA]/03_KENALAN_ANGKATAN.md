@@ -4,7 +4,7 @@
 
 ## 🏫 Kelas 1A
 
-### [01] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
+### [01] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
 * **NIM:** [NIM_MAHASISWA_BARU]
@@ -85,16 +85,16 @@
 * **Asal Sekolah:** SMAN 1 KARAS
 * **Fun Fact:** gk kuat makan makanan pedas
 
-### [07] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+### [07] 264311040 - FAIRUZ NADHIR RAHMAD
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311040_FAIRUZ.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:**  FAIRUZ NADHIR RAHMAD
+* **NIM:**  264311040
+* **TTL:** MADIUN, 02 APRIL 2008
+* **Nomer Handphone:** 08976381168
+* **Nama Kelompok:** RAILS
+* **Asal Daerah:**  Madiun
+* **Asal Sekolah:** SMAN 2 KOTA MADIUN
+* **Fun Fact:** malas merah
 
 ---
 
