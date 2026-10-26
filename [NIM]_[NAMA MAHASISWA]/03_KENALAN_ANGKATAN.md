@@ -85,7 +85,7 @@
 * **Asal Sekolah:** SMAN 1 KARAS
 * **Fun Fact:** gk kuat makan makanan pedas
 
-### [07] 264311040 - FAIRUZ NADHIR RAHMAD
+### [08] 264311040 - FAIRUZ NADHIR RAHMAD
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311040_FAIRUZ.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:**  FAIRUZ NADHIR RAHMAD
 * **NIM:**  264311040
@@ -96,6 +96,82 @@
 * **Asal Sekolah:** SMAN 2 KOTA MADIUN
 * **Fun Fact:** malas merah
 
+### [09] 264311034 - ALEXSANDRIA CAHAYA ADZANI 
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311034_ALEX.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:**  ALEXSANDRIA CAHAYA ADZANI
+* **NIM:**  264311034
+* **TTL:** MADIUN, 20 JULI 2007
+* **Nomer Handphone:** 083831646118
+* **Nama Kelompok:** EXPRESS
+* **Asal Daerah:**  KOTA MADIUN 
+* **Asal Sekolah:** SMAN 2 KOTA MADIUN
+* **Fun Fact:** wi wok de tok
+
+### [10] 264311037 - ANASTASYA SILVIA MONICA  
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311037_ANASTASYA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** ANASTASYA SILVIA MONICA 
+* **NIM:**  264311037
+* **TTL:** Kota Magetan, 5 Juni 2008
+* **Nomer Handphone:** 085129127452
+* **Nama Kelompok:** RAILS
+* **Asal Daerah:**  Kota Magetan 
+* **Asal Sekolah:** SMAN 1 Sukomoro
+* **Fun Fact:** anak spotify
+
+### [11] 264311039 - DEWI WASILATUL KHOIRIYAH  
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311039_LALA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** DEWI WASILATUL KHOIRIYAH 
+* **NIM:** 264311039
+* **TTL:** SIDOARJO, 21 NOVEMBER 2007
+* **Nomer Handphone:** 089506013768
+* **Nama Kelompok:** VUE
+* **Asal Daerah:**  SIDOARJO
+* **Asal Sekolah:** SMKS SENOPATI
+* **Fun Fact:** hobi turu
+
+### [12] 264311045 - KEYLILA EDENIA VINCA SUSANTO  
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311045_KEYLILA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** KEYLILA EDENIA VINCA SUSANTO   
+* **NIM:** 264311045
+* **TTL:** KOTA MADIUN, 18 AGUSTUS 2007
+* **Nomer Handphone:** 08121881795
+* **Nama Kelompok:** DJANGO 
+* **Asal Daerah:**  KOTA MADIUN
+* **Asal Sekolah:** SMAN 1 MADIUN
+* **Fun Fact:** Feminist
+
+### [13] 264311045 - KEYLILA EDENIA VINCA SUSANTO  
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311045_KEYLILA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** KEYLILA EDENIA VINCA SUSANTO   
+* **NIM:** 264311045
+* **TTL:** KOTA MADIUN, 18 AGUSTUS 2007
+* **Nomer Handphone:** 08121881795
+* **Nama Kelompok:** DJANGO 
+* **Asal Daerah:**  KOTA MADIUN
+* **Asal Sekolah:** SMAN 1 MADIUN
+* **Fun Fact:** Feminist
+
+### [14] 264311050 - NADILA WULANSARI  
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311050_NADILA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** NADILA WULANSARI  
+* **NIM:** 264311050
+* **TTL:** NGAWI, 23 Mei 2007
+* **Nomer Handphone:** 081216380963
+* **Nama Kelompok:** DJANGO 
+* **Asal Daerah:** kab. ngawi
+* **Asal Sekolah:** sman 1 kedunggalar
+* **Fun Fact:** Gabut dikit pengen makan
+
+### [15] 264311051 - Nazhwa Al Karana Putri   
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311051_NAZWHA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** NADILA WULANSARI  
+* **NIM:** 264311050
+* **TTL:** NGAWI, 28 Desember 2008
+* **Nomer Handphone:** 088226071910
+* **Nama Kelompok:** DJANGO 
+* **Asal Daerah:** KAB. NGAWI
+* **Asal Sekolah:** SMAN 1 KARAS
+* **Fun Fact:** suka makan tapi malas ngunyah
 ---
 
 ## 🏫 Kelas 1C
