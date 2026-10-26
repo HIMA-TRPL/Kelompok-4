@@ -140,18 +140,7 @@
 * **Asal Sekolah:** SMAN 1 MADIUN
 * **Fun Fact:** Feminist
 
-### [13] 264311045 - KEYLILA EDENIA VINCA SUSANTO  
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311045_KEYLILA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** KEYLILA EDENIA VINCA SUSANTO   
-* **NIM:** 264311045
-* **TTL:** KOTA MADIUN, 18 AGUSTUS 2007
-* **Nomer Handphone:** 08121881795
-* **Nama Kelompok:** DJANGO 
-* **Asal Daerah:**  KOTA MADIUN
-* **Asal Sekolah:** SMAN 1 MADIUN
-* **Fun Fact:** Feminist
-
-### [14] 264311050 - NADILA WULANSARI  
+### [13] 264311050 - NADILA WULANSARI  
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311050_NADILA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** NADILA WULANSARI  
 * **NIM:** 264311050
@@ -162,8 +151,8 @@
 * **Asal Sekolah:** sman 1 kedunggalar
 * **Fun Fact:** Gabut dikit pengen makan
 
-### [15] 264311051 - Nazhwa Al Karana Putri   
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311051_NAZWHA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+### [14] 264311051 - Nazhwa Al Karana Putri   
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311051_NAZHWA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** NADILA WULANSARI  
 * **NIM:** 264311050
 * **TTL:** NGAWI, 28 Desember 2008
