@@ -228,7 +228,7 @@
 * **Asal Sekolah:** SMAN 01 MADIUN 
 * **Fun Fact:** bersin bersin habis ngekek
 
-### [17] 264311059 - SINARA ENDRYA ALNEGAR
+### [18] 264311059 - SINARA ENDRYA ALNEGAR
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311059_SINARA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** SINARA ENDRYA ALNEGAR 
 * **NIM:** 264311059
