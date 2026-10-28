@@ -216,6 +216,28 @@
 * **Asal Daerah:** KAB.MADIUN
 * **Asal Sekolah:** SMAN 01 NGLAMES
 * **Fun Fact:** Suka Ngopi
+
+### [17] 264311035 - ANISA LATIFATUL ROHMA  
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311035_LATIF.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** ANISA LATIFATUL ROHMA   
+* **NIM:** 264311035
+* **TTL:** KOTA MADIUN, 20 MARET 2007
+* **Nomer Handphone:** 08977957262
+* **Nama Kelompok:** FLUTTER 
+* **Asal Daerah:** KOTA MADIUN 
+* **Asal Sekolah:** SMAN 01 MADIUN 
+* **Fun Fact:** bersin bersin habis ngekek
+
+### [17] 264311059 - SINARA ENDRYA ALNEGAR
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311059_SINARA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** SINARA ENDRYA ALNEGAR 
+* **NIM:** 264311059
+* **TTL:** PONOROGO, 9 JUNI 2007
+* **Nomer Handphone:** 085606994560
+* **Nama Kelompok:** VUE 
+* **Asal Daerah:** PONOROGO  
+* **Asal Sekolah:** SMAN 1 PONOROGO
+* **Fun Fact:** gampang ngantuk
 ---
 
 ## 🏫 Kelas 1C
