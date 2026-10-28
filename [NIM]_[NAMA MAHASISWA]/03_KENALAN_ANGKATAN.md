@@ -41,6 +41,39 @@
 
 ## 🏫 Kelas 1B
 
+### [01] 264311049 - MUHAMMAD MAHLAYAN
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311049_IYAN.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** MUHAMMAD MAHLAYAN
+* **NIM:** 264311049
+* **TTL:** kota Magetan  1 januari 2007
+* **Nomer Handphone:** 081994311889
+* **Nama Kelompok:** Django
+* **Asal Daerah:** kota Magetan
+* **Asal Sekolah:** SMAN 1 SUKOMORO
+* **Fun Fact:** bisa gambar & basket berjam2 klo udah masuk flow state
+
+### [02] 264311038 - ARDHAN IRSYAD MAULANA
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311038_ARDHAN.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** ARDHAN IRSYAD MAULANA
+* **NIM:** 264311038
+* **TTL:** KOTA MADIUN, 16 JUNI 2007
+* **Nomer Handphone:** 081230448224
+* **Nama Kelompok:** SVELTE
+* **Asal Daerah:** MADIUN
+* **Asal Sekolah:** MAN 1 KOTA MADIUN
+* **Fun Fact:** GA SUKA NGOMONG KASAR
+
+### [03] 264311056 - RESTU PRAYOGA
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311056_RESTU.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** RESTU PRAYOGA
+* **NIM:** 264311056
+* **TTL:** PONOROGO, 19 JANUARI 2008
+* **Nomer Handphone:** 083134846000
+* **Nama Kelompok:** ANGULAR
+* **Asal Daerah:** KAB,PONOROGO
+* **Asal Sekolah:** SMKN1 JENANGAN PONOROGO
+* **Fun Fact:** FANS KING EMYU
+  
 ### [04] 264311033 - AKBAR PUTRA PRATAMA
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311033_AKBAR.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** AKBAR PUTRA PRATAMA
