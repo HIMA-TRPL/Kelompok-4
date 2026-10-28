@@ -239,7 +239,7 @@
 * **Asal Sekolah:** SMAN 1 PONOROGO
 * **Fun Fact:** gampang ngantuk
 
-### [18] 264311054 - Panji Yuwono Wijoyo
+### [19] 264311054 - Panji Yuwono Wijoyo
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311054_PANJI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Panji Yuwono Wijoyo
 * **NIM:** 264311054
