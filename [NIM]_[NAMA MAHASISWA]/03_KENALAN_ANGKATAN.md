@@ -194,6 +194,28 @@
 * **Asal Daerah:** KAB. NGAWI
 * **Asal Sekolah:** SMAN 1 KARAS
 * **Fun Fact:** suka makan tapi malas ngunyah
+
+### [15] 264311036 - ANNISA NIMASTURNA MEYSARAHMA  
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311036_NIMAS.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** ANNISA NIMASTURNA MEYSARAHMA   
+* **NIM:** 264311036
+* **TTL:** KOTA MADIUN, 07 MEI 2007
+* **Nomer Handphone:** 081958016783
+* **Nama Kelompok:** DJANGO
+* **Asal Daerah:** KOTA MADIUN
+* **Asal Sekolah:** SMKN 03 MADIUN
+* **Fun Fact:** drakor addict
+
+### [16] 264311053 - NILA AYUNISA  
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311036_NIMAS.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** ANILA AYUNISA  
+* **NIM:** 264311053
+* **TTL:** MADIUN, 01 JUNI 2007
+* **Nomer Handphone:** 082245522019
+* **Nama Kelompok:** RAILS
+* **Asal Daerah:** KAB.MADIUN
+* **Asal Sekolah:** SMAN 01 NGLAMES
+* **Fun Fact:** Suka Ngopi
 ---
 
 ## 🏫 Kelas 1C
