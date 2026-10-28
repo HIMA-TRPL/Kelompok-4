@@ -249,6 +249,28 @@
 * **Asal Daerah:** KAB.MADIUN
 * **Asal Sekolah:** SMKS Al-Basyariyah
 * **Fun Fact:** "Hei!! Antek-Antek Feodalis 🫵!!!"
+
+### [20] 264311046 - MOCH KEVIN NAFIZ ALFA RIZAL
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311046_KEVIN.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** MOCH KEVIN NAFIZ ALFA RIZAL
+* **NIM:** 264311046
+* **TTL:** KOTA MADIUN, 06 MARET 2007
+* **Nomer Handphone:** 085198186162
+* **Nama Kelompok:** RAILS
+* **Asal Daerah:** KOTA MADIUN 
+* **Asal Sekolah:** SMK TELKOM MALANG
+* **Fun Fact:** Berani Beda
+
+### [06] 264311052 - NAZRIL DESTA ADHANDA
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311052_NAZRIL.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** NAZRIL DESTA ADHANDA
+* **NIM:** 264311052
+* **TTL:** MADIUN, 20 DESEMBER 2007
+* **Nomer Handphone:** 085812383955
+* **Nama Kelompok:** REACT
+* **Asal Daerah:** KAB.MADIUN
+* **Asal Sekolah:** SMAN 1 DAGANGAN
+* **Fun Fact:** rispek bgtt
 ---
 
 ## 🏫 Kelas 1C
