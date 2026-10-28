@@ -26,17 +26,313 @@
 * **Asal Sekolah:** SMKN 1 JENANGAN
 * **Fun Fact:** aku mau tidur
 
-### [03] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+### [03] 264311003 - Afan Dhani Prasetyo
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311003_Afan.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Afan Dhani Prasetyo
+* **NIM:** 264311003
+* **TTL:** Magetan, 18 Febuari 2008
+* **Nomer Handphone:** 081217076236
+* **Nama Kelompok:** Svelte
+* **Asal Daerah:** Magetan
+* **Asal Sekolah:** SMKN 2 MAGETAN
+* **Fun Fact:** Karina AESPA MBG (my bini gw)
 
+### [04] 264311004 - Afrin Rachmad Setio
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311004-AFRIN.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Afrin Rachmad Setio
+* **NIM:** 264311004
+* **TTL:** Magetan, 30 Agustus 2008
+* **Nomer Handphone:** 085735490376
+* **Nama Kelompok:** Svelte
+* **Asal Daerah:** Magetan
+* **Asal Sekolah:** SMKN TAKERAN
+* **Fun Fact:** MASA MUDA WAJIB HEALING
+
+### [05] 264311005 - Anis Ali Sohib
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311005-SOHIB.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Anis Ali Sohib
+* **NIM:** 264311005
+* **TTL:** Magetan, 26 Maret 2008
+* **Nomer Handphone:** 085759339335
+* **Nama Kelompok:** Symfony
+* **Asal Daerah:** Magetan
+* **Asal Sekolah:** SMK MA'ARIF DS
+* **Fun Fact:** HIKING
+
+### [06] 264311006 - Aulia Fatmawati
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311006-AULIA-FATMAWATI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Aulia Fatmawati
+* **NIM:** 264311006
+* **TTL:** Madiun, 09 November 2007
+* **Nomer Handphone:** 08132605112
+* **Nama Kelompok:** Laravel
+* **Asal Daerah:** Madiun
+* **Asal Sekolah:** SMK BP SUBULUL HUDA
+* **Fun Fact:** TIDAK SUKA MAKANAN PEDAS
+
+### [07] 264311007 - Aurelysta Bunga Dhias Mawarni
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311007-Aurelysta.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Aurelysta Bunga Dhias Mawarni
+* **NIM:** 264311007
+* **TTL:** Mojokerto, 25 Juni 2007
+* **Nomer Handphone:** 082141028639
+* **Nama Kelompok:** Spring
+* **Asal Daerah:** Mojokerto
+* **Asal Sekolah:** SMAN 1 MOJOSARI
+* **Fun Fact:** love matcha dan capybara💚🤎
+
+### [08] 264311008 - Bertha Sampoerna
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311008-BERTHA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Bertha Sampoerna
+* **NIM:** 264311008
+* **TTL:** Ngawi, 29 Januari 2008
+* **Nomer Handphone:** 085746137108
+* **Nama Kelompok:** React
+* **Asal Daerah:** Ngawi
+* **Asal Sekolah:** SLONCOM
+* **Fun Fact:** TIDAK ADA
+
+### [09] 264311009 - Bramanta Setya Bagaskara
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311009_Bagas.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Bramanta Setya Bagaskara
+* **NIM:** 264311009
+* **TTL:** Malang, 24 November 2007
+* **Nomer Handphone:** 082335095279
+* **Nama Kelompok:** Spring
+* **Asal Daerah:** Malang
+* **Asal Sekolah:** SMKN 1 KEPANJEN
+* **Fun Fact:** SUKA MENDENGARKAN MUSIK, HOBI OTOMOTIF, TIDAK SUKA BUBUR
+
+### [10] 264311010 - Dava Al Mustoffa Dachlan
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311010-DAVA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Dava Al Mustoffa Dachlan
+* **NIM:** 264311010
+* **TTL:** Magetan, 17 Maret 2007
+* **Nomer Handphone:** 087840888211
+* **Nama Kelompok:** Svelte
+* **Asal Daerah:** Madiun
+* **Asal Sekolah:** SMAN 1 GEGER
+* **Fun Fact:** Cool
+
+### [11] 264311011 - Dhafin Hasya Zaki
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311011 - DHAFIN.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Dhafin Hasya Zaki
+* **NIM:** 264311011
+* **TTL:** Madiun, 28 Juli 2007
+* **Nomer Handphone:** 089699247978
+* **Nama Kelompok:** Spring
+* **Asal Daerah:** Madiun
+* **Asal Sekolah:** SMAN 5 MADIUN
+* **Fun Fact:** RACING ABIEZ
+
+### [12] 264311012 - Dimas Pramodya Bagaskara
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311012-DIMAS.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Dimas Pramodya Bagaskara
+* **NIM:** 264311012
+* **TTL:** Ponorogo, 05 Mei 2008
+* **Nomer Handphone:** 0881036039069
+* **Nama Kelompok:** Spring
+* **Asal Daerah:** Ponorogo
+* **Asal Sekolah:** SMK 1 JENANGAN
+* **Fun Fact:** Cadel
+
+### [13] 264311013 - Edgar Rizki Putra Novariyanto
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311013-EDGAR.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Edgar Rizki Putra Novariyanto
+* **NIM:** 264311013
+* **TTL:** Madiun, 17 November 2007
+* **Nomer Handphone:** 085649416080
+* **Nama Kelompok:** Laravel
+* **Asal Daerah:** Madiun
+* **Asal Sekolah:** SMKN 1 GEGER
+* **Fun Fact:** aku mah pemulaa
+
+### [14] 264311014 - Elvan Syahputra Idham
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311014-ELVAN.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Elvan Syahputra Idham
+* **NIM:** 264311014
+* **TTL:** Madiun, 08 Maret 2008
+* **Nomer Handphone:** 085141031476
+* **Nama Kelompok:** Symfony
+* **Asal Daerah:** Kab. Madiun
+* **Asal Sekolah:** SMKN 1 MEJAYAN
+* **Fun Fact:** suka melukis
+
+### [15] 264311015 - Fakhriyatul Muzakkina
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311015_Fakhriyatul.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Fakhriyatul Muzakkina
+* **NIM:** 264311015
+* **TTL:** Probolinggo, 16 Juli 2008
+* **Nomer Handphone:** 08580402815
+* **Nama Kelompok:** Spring
+* **Asal Daerah:** Probolinggo
+* **Asal Sekolah:** SMKN 2 KRAKSAAN
+* **Fun Fact:** ga bisa tidur klo ga nyetel musik
+
+### [16] 264311016 - Fatikha Artemisia
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311016_Fatikha.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Fatikha Artemisia
+* **NIM:** 264311016
+* **TTL:** Magetan, 16 Desember 2007
+* **Nomer Handphone:** 085604017960
+* **Nama Kelompok:** Flask
+* **Asal Daerah:** Magetan
+* **Asal Sekolah:** SMAN 1 MAOSPATI
+* **Fun Fact:** cinta kecap
+
+### [17] 264311017 - Jelita Palupi Kusuma Wardani
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311017-JELITA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Jelita Palupi Kusuma Wardani
+* **NIM:** 264311017
+* **TTL:** Sidoarjo, 17 Maret 2008
+* **Nomer Handphone:** 082331467589
+* **Nama Kelompok:** Laravel
+* **Asal Daerah:** Sidoarjo
+* **Asal Sekolah:** SMK SENOPATI SIDOARJO
+* **Fun Fact:** SUKA BUBUDUDU
+
+### [18] 264311018 - Julian Raka Nugraha
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311018_Raka.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Julian Raka Nugraha
+* **NIM:** 264311018
+* **TTL:** Ponorogo, 28 Juli 2008
+* **Nomer Handphone:** 082247095571
+* **Nama Kelompok:** Svelte
+* **Asal Daerah:** Ponorogo
+* **Asal Sekolah:** SMK PGRI 2 PONOROGO
+* **Fun Fact:** suka lagu LANA DEL REY
+
+### [19] 264311019 - Khansa Qais Fernanda
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311019-KHANSA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Khansa Qais Fernanda
+* **NIM:** 264311019
+* **TTL:** Madiun, 21 Februari 2008
+* **Nomer Handphone:** 083171456397
+* **Nama Kelompok:** Spring
+* **Asal Daerah:** Kab. Madiun
+* **Asal Sekolah:** SMKN 1 WONOASRI
+* **Fun Fact:** suka main gitar
+
+### [20] 264311020 - Mahija Parama Urdha
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311020-MAHIJA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Mahija Parama Urdha
+* **NIM:** 264311020
+* **TTL:** Ponorogo, 11 Januari 2008
+* **Nomer Handphone:** 085812827530
+* **Nama Kelompok:** Laravel
+* **Asal Daerah:** Kab. Madiun
+* **Asal Sekolah:** SMKS AL-ISLAM JORESAN PONOROGO
+* **Fun Fact:** baik
+
+### [21] 264311021 - Muhammad Ridwan Nazim
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311021_Ridwan.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Muhammad Ridwan Nazim
+* **NIM:** 264311021
+* **TTL:** Jakarta, 25 Mei 2007
+* **Nomer Handphone:** 085807229272
+* **Nama Kelompok:** Laravel
+* **Asal Daerah:** Magetan
+* **Asal Sekolah:** SMAN 1 BARAT
+* **Fun Fact:** dipanggil nengok
+
+### [22] 264311022 - Naila Azahra Fitri
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311022-NAILA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Naila Azahra Fitri
+* **NIM:** 264311022
+* **TTL:** Bojonegoro, 10 Oktober 2008
+* **Nomer Handphone:** 081235681140
+* **Nama Kelompok:** Flask
+* **Asal Daerah:** Bojonegoro
+* **Asal Sekolah:** SMAN 1 CEPU
+* **Fun Fact:** wallahualam😊🩵
+
+### [23] 264311023 - Nashwa Nadia Nurlatifa
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311023_Nashwa.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Nashwa Nadia Nurlatifa
+* **NIM:** 264311023
+* **TTL:** Bojonegoro, 31 Maret 2008
+* **Nomer Handphone:** 083117678815
+* **Nama Kelompok:** Spring
+* **Asal Daerah:** Bojonegoro
+* **Asal Sekolah:** SMAN 5 TARUNA BRAWIJAYA
+* **Fun Fact:** lagi rewatch marvel💚
+
+### [24] 264311024 - Ngazimatul Khusna
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311024_Ngazimatul.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Ngazimatul Khusna
+* **NIM:** 264311024
+* **TTL:** Ngawi, 12 Juli 2007
+* **Nomer Handphone:** 085737034383
+* **Nama Kelompok:** Svelte
+* **Asal Daerah:** Ngawi
+* **Asal Sekolah:** MAS AL-ISLAM JORESAN PONOROGO
+* **Fun Fact:** bisa tidur berdiri
+
+### [25] 264311025 - Rafiq Imam Zaini
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311025-RAFIQ.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Rafiq Imam Zaini
+* **NIM:** 264311025
+* **TTL:** Balikpapan, 21 Desember 2005
+* **Nomer Handphone:** 089616630873
+* **Nama Kelompok:** Symfony
+* **Asal Daerah:** Magetan
+* **Asal Sekolah:** SMAN 1 MAOSPATI
+* **Fun Fact:** suka pecut ai
+
+### [26] 264311026 - Rahma Fauzi Cahya Saputra
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311026_Fauzi.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Rahma Fauzi Cahya Saputra
+* **NIM:** 264311026
+* **TTL:** Ngawi, 20 Juli 2008
+* **Nomer Handphone:** 085748652781
+* **Nama Kelompok:** Symfony
+* **Asal Daerah:** Ngawi
+* **Asal Sekolah:** SMAN 1 KARANGJATI
+* **Fun Fact:** PENDIEM YANG SERING GERAK
+
+### [27] 264311027 - Reza Surya Kurniawan
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311027-REZA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Reza Surya Kurniawan
+* **NIM:** 264311027
+* **TTL:** Magetan, 28 Maret 2007
+* **Nomer Handphone:** 0895395151012
+* **Nama Kelompok:** Symfony
+* **Asal Daerah:** Magetan
+* **Asal Sekolah:** MAN 2 KOTA MADIUN
+* **Fun Fact:** Suka kopag
+
+### [28] 264311028 - Rhahma Dwi Sekarsari
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311028_Rhahma.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Rhahma Dwi Sekarsari
+* **NIM:** 264311028
+* **TTL:** Nganjuk, 31 Juli 2008
+* **Nomer Handphone:** 085852424110
+* **Nama Kelompok:** Svelte
+* **Asal Daerah:** Nganjuk
+* **Asal Sekolah:** SMKN 1 LENGKONG
+* **Fun Fact:** MINUM TEH GABISA TIDUR
+
+### [29] 264311029 - Rifqi Adyasta Mahardika
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311029_Rifqi.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Rifqi Adyasta Mahardika
+* **NIM:** 264311029
+* **TTL:** Bojonegoro, 19 September 2008
+* **Nomer Handphone:** 085335808840
+* **Nama Kelompok:** Laravel
+* **Asal Daerah:** Bojonegoro
+* **Asal Sekolah:** SMAN 1 KASIMAN
+* **Fun Fact:** pengen jago vibe coding
+
+### [30] 264311030 - Zahro Choirun Latifah
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311030_ZAHRO.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Zahro Choirun Latifah
+* **NIM:** 264311030
+* **TTL:** Madiun, 15 Mei 2007
+* **Nomer Handphone:** 089622274040
+* **Nama Kelompok:** Laravel
+* **Asal Daerah:** Madiun
+* **Asal Sekolah:** MAN 1 KOTA MADIUN
+* **Fun Fact:** suka debat
 ---
 
 ## 🏫 Kelas 1B
