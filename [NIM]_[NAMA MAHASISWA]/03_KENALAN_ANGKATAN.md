@@ -557,7 +557,7 @@
 * **Asal Sekolah:** SMK TELKOM MALANG
 * **Fun Fact:** Berani Beda
 
-### [06] 264311052 - NAZRIL DESTA ADHANDA
+### [21] 264311052 - NAZRIL DESTA ADHANDA
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311052_NAZRIL.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** NAZRIL DESTA ADHANDA
 * **NIM:** 264311052
