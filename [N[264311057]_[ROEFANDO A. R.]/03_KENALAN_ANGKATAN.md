@@ -4,27 +4,27 @@
 
 ## 🏫 Kelas 1A
 
-### [01] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+### [01] 264311001 - Adhinia Alkurratu Ainni
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311001_NIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Adhinia Alkurratu Ainni
+* **NIM:** 264311001
+* **TTL:** Madiun, 11 Desember 2007
+* **Nomer Handphone:** 0895397031103
+* **Nama Kelompok:** Express
+* **Asal Daerah:** Ngawi
+* **Asal Sekolah:** SMAN 1 NGLAMES
+* **Fun Fact:** BAIK
 
-### [02] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
-* **NIM:** [NIM_MAHASISWA_BARU]
-* **TTL:** [TTL_MAHASISWA_BARU]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Nama Kelompok:** [NAMA_KELOMPOK]
-* **Asal Daerah:** [KOTA/KABUPATEN]
-* **Asal Sekolah:** [ASAL_SEKOLAH]
-* **Fun Fact:** [FUN_FACT]
+### [02] 264311002 - Adly Nourus Zaman Assidiq
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311002_ADLY.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Adly Nourus Zaman Assidiq
+* **NIM:** 264311002
+* **TTL:** Malaysia, 08 Januari 2008
+* **Nomer Handphone:** 081315871890
+* **Nama Kelompok:** Flask
+* **Asal Daerah:** Ponorogo
+* **Asal Sekolah:** SMKN 1 JENANGAN
+* **Fun Fact:** aku mau tidur
 
 ### [03] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
