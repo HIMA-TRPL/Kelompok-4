@@ -27,7 +27,7 @@
 * **Fun Fact:** aku mau tidur
 
 ### [03] 264311003 - Afan Dhani Prasetyo
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311003_Afan.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311003-AFAN.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Afan Dhani Prasetyo
 * **NIM:** 264311003
 * **TTL:** Magetan, 18 Febuari 2008
@@ -71,7 +71,7 @@
 * **Fun Fact:** TIDAK SUKA MAKANAN PEDAS
 
 ### [07] 264311007 - Aurelysta Bunga Dhias Mawarni
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311007-Aurelysta.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311007-AUREL.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Aurelysta Bunga Dhias Mawarni
 * **NIM:** 264311007
 * **TTL:** Mojokerto, 25 Juni 2007
@@ -93,7 +93,7 @@
 * **Fun Fact:** TIDAK ADA
 
 ### [09] 264311009 - Bramanta Setya Bagaskara
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311009_Bagas.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311009-BAGAS.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Bramanta Setya Bagaskara
 * **NIM:** 264311009
 * **TTL:** Malang, 24 November 2007
@@ -159,7 +159,7 @@
 * **Fun Fact:** suka melukis
 
 ### [15] 264311015 - Fakhriyatul Muzakkina
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311015_Fakhriyatul.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311015-FAKHRI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Fakhriyatul Muzakkina
 * **NIM:** 264311015
 * **TTL:** Probolinggo, 16 Juli 2008
@@ -170,7 +170,7 @@
 * **Fun Fact:** ga bisa tidur klo ga nyetel musik
 
 ### [16] 264311016 - Fatikha Artemisia
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311016_Fatikha.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311016-FATIKHA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Fatikha Artemisia
 * **NIM:** 264311016
 * **TTL:** Magetan, 16 Desember 2007
@@ -192,7 +192,7 @@
 * **Fun Fact:** SUKA BUBUDUDU
 
 ### [18] 264311018 - Julian Raka Nugraha
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311018_Raka.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311018-RAKA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Julian Raka Nugraha
 * **NIM:** 264311018
 * **TTL:** Ponorogo, 28 Juli 2008
@@ -280,7 +280,7 @@
 * **Fun Fact:** suka pecut ai
 
 ### [26] 264311026 - Rahma Fauzi Cahya Saputra
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311026_Fauzi.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311026-FAUZI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Rahma Fauzi Cahya Saputra
 * **NIM:** 264311026
 * **TTL:** Ngawi, 20 Juli 2008
