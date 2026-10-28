@@ -53,7 +53,7 @@
 * **Fun Fact:** bisa gambar & basket berjam2 klo udah masuk flow state
 
 ### [02] 264311038 - ARDHAN IRSYAD MAULANA
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311038_ARDHAN.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311038_ARDHAN(fix).jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** ARDHAN IRSYAD MAULANA
 * **NIM:** 264311038
 * **TTL:** KOTA MADIUN, 16 JUNI 2007
