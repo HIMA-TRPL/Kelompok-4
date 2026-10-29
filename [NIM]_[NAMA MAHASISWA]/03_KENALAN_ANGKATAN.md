@@ -302,7 +302,7 @@
 * **Fun Fact:** [SUKA_KOPAG]
 
 ### [28] [264311028] - [RHAHMA_DWI_SEKARSARI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311028 - RHAHMA_DWI_SEKARSARI.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311028_Rhahma.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [RHAHMA_DWI_SEKARSARI]
 * **NIM:** [264311028]
 * **TTL:** [NGANJUK,_31_JULI_2008]
