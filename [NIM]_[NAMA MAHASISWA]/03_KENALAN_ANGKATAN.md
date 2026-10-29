@@ -269,7 +269,7 @@
 * **Fun Fact:** [BISA_TIDUR_BERDIRI]
 
 ### [25] [264311025] - [RAFIQ_IMAM_ZAINI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311025 - RAFIQ_IMAM_ZAINI.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311025_Rafiq.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [RAFIQ_IMAM_ZAINI]
 * **NIM:** [264311025]
 * **TTL:** [BALIKPAPAN,21_DESEMBER_2005]
