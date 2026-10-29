@@ -650,7 +650,7 @@
 ## 🏫 Kelas 1C
 
 ### [60] [264311060] - [ADAM_CHESTA_ADITIO]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311060 - ADAM_CHESTA_ADITIO.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311060-ADAM.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [ADAM_CHESTA_ADITIO]
 * **NIM:** [264311060]
 * **TTL:** [BLITAR_10_SEPTEMBER_2007]
