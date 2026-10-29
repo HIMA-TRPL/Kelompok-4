@@ -291,7 +291,7 @@
 * **Fun Fact:** [PENDIEM_YANG_SERING_GERAK]
 
 ### [27] [264311027] - [REZA_SURYA_KURNIAWAN]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311027 - REZA_SURYA_KURNIAWAN.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311027_Reza.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [REZA_SURYA_KURNIAWAN]
 * **NIM:** [264311027]
 * **TTL:** [MAGETAN,_28_MARET_2007]
