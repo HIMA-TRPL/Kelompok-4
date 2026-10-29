@@ -804,7 +804,7 @@
 * **Fun Fact:** [GAME_GARIS_KERAS]
 
 ### [74] [264311074] - [MAR'ATUS_SOFIANA_AZKIYA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311017-JELITA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311074-MARATUS.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [MAR'ATUS_SOFIANA_AZKIYA]
 * **NIM:** [264311074]
 * **TTL:** [PONOROGO,_18_JANUARI_2008]
