@@ -416,7 +416,7 @@
 * **Fun Fact:** [ANAK_SPOTIFY]
 
 ### [38] [264311038] - [ARDHAN_IRSYAD_MAULANA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311038 - ARDHAN_IRSYAD_MAULANA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311038_Ardhan.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [ARDHAN_IRSYAD_MAULANA]
 * **NIM:** [264311038]
 * **TTL:** [KOTA_MADIUN,_16_JUNI_2007]
