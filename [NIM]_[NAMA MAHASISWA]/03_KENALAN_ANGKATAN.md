@@ -848,7 +848,7 @@
 * **Fun Fact:** [TIDAK_PERNAH_MEMILIKI_NAMA_PANGGILAN_YANG_SAMA_DI_SETIAP_JENJANG_SEKOLAH]
 
 ### [19] [264311078] - [MUTYA_YUWAN_RAMADAHNI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM-MUTYA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [MUTYA_YUWAN_RAMADAHNI]
 * **NIM:** [264311078]
 * **TTL:** [PONOROGO,_6_OKTOBER_2007]
@@ -859,7 +859,7 @@
 * **Fun Fact:** [SUKA_WARNA_HITAM]
 
 ### [20] [264311079] - [NEISYA_GRAZIA_AULIA_FIRDIANTY]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311079 - NEISYA_GRAZIA_AULIA_FIRDIANTY.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311079-NEISYA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NEISYA_GRAZIA_AULIA_FIRDIANTY]
 * **NIM:** [264311079]
 * **TTL:** [MADIUN,_19_JULI_2007]
@@ -870,7 +870,7 @@
 * **Fun Fact:** [SUKA_NA_JAEMIN_+_CINTA_ITS]
 
 ### [21] [264311081] - [PUTRI_NURHALIZA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311081 - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311081-PUTRI.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [PUTRI_NURHALIZA]
 * **NIM:** [264311081]
 * **TTL:** [MADIUN,_8_JUNI_2007]
@@ -892,7 +892,7 @@
 * **Fun Fact:** [SUKA_WHEN_YAH]
 
 ### [23] [264311083] - [SATRIA_PANDU_ADMAJA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311083 - SATRIA_PANDU_ADMAJA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311083-SATRIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [SATRIA_PANDU_ADMAJA]
 * **NIM:** [264311083]
 * **TTL:** [PONOROGO,_20_APRIL_2008]
@@ -903,7 +903,7 @@
 * **Fun Fact:** [SUKA_NGEGAME]
 
 ### [24] [264311085] - [SYAHGA_REYHAN_SURYA_PRATAMA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311085 - SYAHGA_REYHAN_SURYA_PRATAMA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311085-SYAHGA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [SYAHGA_REYHAN_SURYA_PRATAMA]
 * **NIM:** [264311085]
 * **TTL:** [SIDOARJO,_22_JANUARI_2007]
@@ -925,7 +925,7 @@
 * **Fun Fact:** [MEMEMLIHARA_KAMBING]
 
 ### [26] [264311087] - [YAYA_WINDA_SALMA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311087 - YAYA_WINDA_SALMA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311087-YAYA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [YAYA_WINDA_SALMA]
 * **NIM:** [264311087]
 * **TTL:** [MAGETAN,_28_DESEMBER_2007]
