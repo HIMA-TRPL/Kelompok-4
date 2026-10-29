@@ -280,7 +280,7 @@
 * **Fun Fact:** [SUKA_PECUT_AI]
 
 ### [26] [264311026] - [RAHMA_FAUZI_CAHYA_SAPUTRA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311026 - RAHMA_FAUZI_CAHYA_SAPUTRA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311026_Rahma.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [RAHMA_FAUZI_CAHYA_SAPUTRA]
 * **NIM:** [264311026]
 * **TTL:** [NGAWI,_20_JULI_2008]
