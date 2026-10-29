@@ -559,7 +559,7 @@
 * **Fun Fact:** [RISPEK_BGTT]
 
 ### [51] [264311053] - [NILA_AYUNISA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311053 - NILA_AYUNISA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311053_Nila.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NILA_AYUNISA]
 * **NIM:** [264311053]
 * **TTL:** [MADIUN,_01_JUNI_2007]
