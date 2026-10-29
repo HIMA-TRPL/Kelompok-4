@@ -526,7 +526,7 @@
 * **Fun Fact:** [BISA_GAMBAR_&_BASKET_BERJAM2_KLO_UDAH_MASUK_FLOW_STATE]
 
 ### [48] [264311050] - [NADILA_WULANSARI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311050 - NADILA_WULANSARI.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311050_Nadila.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NADILA_WULANSARI]
 * **NIM:** [264311050]
 * **TTL:** [NGAWI,_23_MEI_2007]
