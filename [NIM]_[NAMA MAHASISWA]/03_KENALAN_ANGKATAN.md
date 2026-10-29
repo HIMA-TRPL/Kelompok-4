@@ -525,7 +525,7 @@
 * **Fun Fact:** SUKA OLAHRAGA, SUKA MUSIK
 
 ### [47] 264311048 - Muhammad Amirul Hafidz 
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311048_HAPIZ.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311048_HAPIS.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Muhammad Amirul Hafidz 
 * **NIM:** 264311048
 * **TTL:** PONOROGO, 06 APRIL 2007
