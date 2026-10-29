@@ -903,7 +903,7 @@
 * **Fun Fact:** [SUKA_WHEN_YAH]
 
 ### [83] [264311083] - [SATRIA_PANDU_ADMAJA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311083-SATRIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311083-SATRIA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [SATRIA_PANDU_ADMAJA]
 * **NIM:** [264311083]
 * **TTL:** [PONOROGO,_20_APRIL_2008]
