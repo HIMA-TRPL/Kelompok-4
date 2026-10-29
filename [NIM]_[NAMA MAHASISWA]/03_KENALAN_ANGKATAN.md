@@ -548,7 +548,7 @@
 * **Fun Fact:** [SUKA_MAKAN_TAPI_MALAS_NGUNYAH]
 
 ### [50] [264311052] - [NAZRIL_DESTA_ADHANDA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311052_Nazril.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NAZRIL_DESTA_ADHANDA]
 * **NIM:** [264311052]
 * **TTL:** [MADIUN,_20_DESEMBER_2007]
