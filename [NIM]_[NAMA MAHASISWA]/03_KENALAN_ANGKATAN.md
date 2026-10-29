@@ -38,7 +38,7 @@
 * **Fun Fact:** [KARINA_AESPA_MBG_(MY_BINI_GW)]
 
 ### [04] [264311004] - [AFRIN_RACHMAD_SETIO]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311004 - AFRIN_RACHMAD_SETIO.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311004_Afrin.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [AFRIN_RACHMAD_SETIO]
 * **NIM:** [264311004]
 * **TTL:** [MAGETAN,_30_AGUSTUS_2008]
