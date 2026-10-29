@@ -27,7 +27,7 @@
 * **Fun Fact:** [AKU_MAU_TIDUR]
 
 ### [03] [264311003] - [AFAN_DHANI_PRASETYO]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311003 - AFAN_DHANI_PRASETYO.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311003_Afan.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [AFAN_DHANI_PRASETYO]
 * **NIM:** [264311003]
 * **TTL:** [MAGETAN,_18_FEBUARI_2008]
