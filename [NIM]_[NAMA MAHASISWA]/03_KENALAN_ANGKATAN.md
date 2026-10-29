@@ -447,7 +447,7 @@
 * **Asal Sekolah:** [SMAN_2_MADIUN]
 * **Fun Fact:** [MALES_ERROR]
 
-### [40] 264311041 - FAUZAN WISAM FALAHUL BASHIROH
+### [41] 264311041 - FAUZAN WISAM FALAHUL BASHIROH
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311041_FAUZAN.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** FAUZAN WISAM FALAHUL BASHIROH
 * **NIM:** 264311041
@@ -458,7 +458,7 @@
 * **Asal Sekolah:** SMAN 1 NGAWI
 * **Fun Fact:** jadi backburner
 
-### [41] 264311042 - GADING FANDY RAYA
+### [42] 264311042 - GADING FANDY RAYA
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311042_Gading.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** GADING FANDY RAYA
 * **NIM:** 264311042
@@ -469,7 +469,7 @@
 * **Asal Sekolah:** SMAN 1 SUKOMORO
 * **Fun Fact:** -
 
-### [42] 264311043 - GLENDY DEVANNO ARDIANSYAH PUTRA
+### [43] 264311043 - GLENDY DEVANNO ARDIANSYAH PUTRA
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311043_GLENDY.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** GLENDY DEVANNO ARDIANSYAH PUTRA
 * **NIM:** 264311043
@@ -480,7 +480,7 @@
 * **Asal Sekolah:** SMKN 1 JENANGAN 
 * **Fun Fact:** Anda kenal saya tau sendiri
 
-### [43] 264311044 - HEKSA ABDILLAH AL GHOFAR
+### [44] 264311044 - HEKSA ABDILLAH AL GHOFAR
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311044_HEKSA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** HEKSA ABDILLAH AL GHOFAR
 * **NIM:** 264311044
@@ -491,7 +491,7 @@
 * **Asal Sekolah:** SMA BUDI UTOMO SURAKARTA
 * **Fun Fact:** LIKEE KOPII LIKEE TIDUR NGGA LIKE PANASS
 
-### [44] 264311045 - KEYLILA EDENIA VINCA SUSANTO   
+### [45] 264311045 - KEYLILA EDENIA VINCA SUSANTO   
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311045_KEYLILA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** KEYLILA EDENIA VINCA SUSANTO
 * **NIM:** 264311045
@@ -502,7 +502,7 @@
 * **Asal Sekolah:** SMAN 01 MADIUN
 * **Fun Fact:** Feminist
 
-### [45] 264311046 - MOCH KEVIN NAFIZ ALFA RIZAL
+### [46] 264311046 - MOCH KEVIN NAFIZ ALFA RIZAL
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311046_KEVIN.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** MOCH KEVIN NAFIZ ALFA RIZAL
 * **NIM:** 264311046
@@ -513,7 +513,7 @@
 * **Asal Sekolah:** SMK TELKOM MALANG
 * **Fun Fact:** Berani Beda
 
-### [46] 264311047 - MOHAMAD FATIR
+### [47] 264311047 - MOHAMAD FATIR
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311047_FATIR.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** MOHAMAD FATIR
 * **NIM:** 264311047
@@ -524,7 +524,7 @@
 * **Asal Sekolah:** SMKN 1 GEGER
 * **Fun Fact:** SUKA OLAHRAGA, SUKA MUSIK
 
-### [47] 264311048 - Muhammad Amirul Hafidz 
+### [48] 264311048 - Muhammad Amirul Hafidz 
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311048_HAPIS.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Muhammad Amirul Hafidz 
 * **NIM:** 264311048
@@ -535,7 +535,7 @@
 * **Asal Sekolah:** SMKN 1 JENANGAN 
 * **Fun Fact:** awas ya ITS tahun depan
 
-### [48] 264311049 - MUHAMMAD MAHLAYAN 
+### [49] 264311049 - MUHAMMAD MAHLAYAN 
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311049_IYAN.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** MUHAMMAD MAHLAYAN
 * **NIM:** 264311049
@@ -546,7 +546,7 @@
 * **Asal Sekolah:** SMAN 1 SUKOMORO
 * **Fun Fact:** bisa gambar & basket berjam2 klo udah masuk flow state
 
-### [49] 264311050 - NADILA WULANSARI 
+### [50] 264311050 - NADILA WULANSARI 
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311050_NADILA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** NADILA WULANSARI
 * **NIM:** 264311050
@@ -557,7 +557,7 @@
 * **Asal Sekolah:** SMAN 1 KEDUNGGALAR 
 * **Fun Fact:** Gabut pengen ngopi 
 
-### [50] 264311051 - Nazhwa Al Karana Putri  
+### [51] 264311051 - Nazhwa Al Karana Putri  
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311051_NAZHWA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Nazhwa Al Karana Putri
 * **NIM:** 264311051
@@ -568,7 +568,7 @@
 * **Asal Sekolah:** SMAN 1 KARAS
 * **Fun Fact:** suka makan tapi malas ngunyah 
 
-### [51] 264311052 - NAZRIL DESTA ADHANDA
+### [52] 264311052 - NAZRIL DESTA ADHANDA
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311052_NAZRIL.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** NAZRIL DESTA ADHANDA
 * **NIM:** 264311052
@@ -579,7 +579,7 @@
 * **Asal Sekolah:** SMAN 1 DAGANGAN
 * **Fun Fact:** rispek bgtt
 
-### [52] 264311053 - NILA AYUNISA  
+### [53] 264311053 - NILA AYUNISA  
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311053_NILA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** NILA AYUNISA
 * **NIM:** 264311053
@@ -590,7 +590,7 @@
 * **Asal Sekolah:** SMAN 01 NGLAMES
 * **Fun Fact:** Suka Ngopi
 
-### [53] 264311054 - Panji Yuwono Wijoyo
+### [54] 264311054 - Panji Yuwono Wijoyo
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311054_PANJI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Panji Yuwono Wijoyo
 * **NIM:** 264311054
@@ -601,7 +601,7 @@
 * **Asal Sekolah:** SMKS Al-Basyariyah
 * **Fun Fact:** "Hei!! Antek-Antek Feodalis 🫵!!!"
 
-### [54] 264311055 - RAIZZAN ULAYYA TAQQI 
+### [55] 264311055 - RAIZZAN ULAYYA TAQQI 
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311055_RAIZZAN.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** RAIZZAN ULAYYA TAQQI 
 * **NIM:** 264311055
@@ -612,7 +612,7 @@
 * **Asal Sekolah:** SMAN 5 NGLAMES
 * **Fun Fact:** gak suka makan pedas
 
-### [55] 264311056 - RESTU PRAYOGA
+### [56] 264311056 - RESTU PRAYOGA
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311056_RESTU.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** RESTU PRAYOGA
 * **NIM:** 264311056
@@ -649,7 +649,7 @@
 
 ## 🏫 Kelas 1C
 
-### [01] [264311060] - [ADAM_CHESTA_ADITIO]
+### [60] [264311060] - [ADAM_CHESTA_ADITIO]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311060 - ADAM_CHESTA_ADITIO.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [ADAM_CHESTA_ADITIO]
 * **NIM:** [264311060]
@@ -660,7 +660,7 @@
 * **Asal Sekolah:** [SMKN_1_BLITAR]
 * **Fun Fact:** [HUMAN_MALE]
 
-### [02] [264311061] - [AULIA_KURNIAWATI]
+### [61] [264311061] - [AULIA_KURNIAWATI]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311061-AULIA-K.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [AULIA_KURNIAWATI]
 * **NIM:** [264311061]
@@ -671,7 +671,7 @@
 * **Asal Sekolah:** [SMAN_1_NGLAMES]
 * **Fun Fact:** [SUKA_HAL_HAL_SIMPEL]
 
-### [03] [264311062] - [AZZAM_FAUZY]
+### [62] [264311062] - [AZZAM_FAUZY]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311062-FAUZY.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [AZZAM_FAUZY]
 * **NIM:** [264311062]
@@ -682,7 +682,7 @@
 * **Asal Sekolah:** [MAN_2_KOTA_MADIUN]
 * **Fun Fact:** [BAIK_HATI]
 
-### [04] [264311063] - [BILQIS_AUDYNOVA_PRASANTY]
+### [63] [264311063] - [BILQIS_AUDYNOVA_PRASANTY]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311063-BILQIS.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [BILQIS_AUDYNOVA_PRASANTY]
 * **NIM:** [264311063]
@@ -693,7 +693,7 @@
 * **Asal Sekolah:** [SMAN_1_MADIUN]
 * **Fun Fact:** [JAGO_NULIS_TANGAN_KIRI]
 
-### [05] [264311064] - [CINDIKA_ZAHIRA_THITANIA_PUTRI]
+### [64] [264311064] - [CINDIKA_ZAHIRA_THITANIA_PUTRI]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311064-CINDI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [CINDIKA_ZAHIRA_THITANIA_PUTRI]
 * **NIM:** [264311064]
@@ -704,7 +704,7 @@
 * **Asal Sekolah:** [SMAN_1_MADIUN]
 * **Fun Fact:** [SUKA_WANGINYA_STELA_JERUK]
 
-### [06] [264311065] - [CORNELIA_NASYWA_PUJI_AGUSTIN]
+### [65] [264311065] - [CORNELIA_NASYWA_PUJI_AGUSTIN]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311065-CORNELIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [CORNELIA_NASYWA_PUJI_AGUSTIN]
 * **NIM:** [264311065]
@@ -715,7 +715,7 @@
 * **Asal Sekolah:** [SMKN_TAKERAN]
 * **Fun Fact:** [CINTA_MATI_UB]
 
-### [07] [264311066] - [DWI_RISKI_NUGROHO]
+### [66] [264311066] - [DWI_RISKI_NUGROHO]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311066-DWI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [DWI_RISKI_NUGROHO]
 * **NIM:** [264311066]
@@ -726,7 +726,7 @@
 * **Asal Sekolah:** [SMAN_PILANGKENCENG]
 * **Fun Fact:** [GAME_&_RUNNING]
 
-### [08] [264311067] - [ELAN_GHIYATH_ABHIMANYU]
+### [67] [264311067] - [ELAN_GHIYATH_ABHIMANYU]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311067-ELAN-GHIYATH.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [ELAN_GHIYATH_ABHIMANYU]
 * **NIM:** [264311067]
@@ -737,7 +737,7 @@
 * **Asal Sekolah:** [SMKN_2_SURAKARTA]
 * **Fun Fact:** [I_LIEK_MUSIC_AND_FILM]
 
-### [09] [264311068] - [EVAN_BHAGASKARA]
+### [68] [264311068] - [EVAN_BHAGASKARA]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311068-EVAN.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [EVAN_BHAGASKARA]
 * **NIM:** [264311068]
@@ -748,7 +748,7 @@
 * **Asal Sekolah:** [SMAN_1_GONDANG]
 * **Fun Fact:** [SUKA_MIE_AYAM]
 
-### [10] [264311069] - [GHAZA_ZAIDAN_AL-GHIFARI]
+### [69] [264311069] - [GHAZA_ZAIDAN_AL-GHIFARI]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311069-GHAZA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [GHAZA_ZAIDAN_AL-GHIFARI]
 * **NIM:** [264311069]
@@ -759,7 +759,7 @@
 * **Asal Sekolah:** [SMAN_1_NGLAMES]
 * **Fun Fact:** [SAYA_ORANGNYA_PENDIAM]
 
-### [11] [264311070] - [IKHZANIERO_ARDYANA_JUNIAR ]
+### [70] [264311070] - [IKHZANIERO_ARDYANA_JUNIAR ]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311070-IKHZANIERO.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [IKHZANIERO_ARDYANA_JUNIAR]
 * **NIM:** [264311070]
@@ -770,7 +770,7 @@
 * **Asal Sekolah:** [SMAN_1_MAOSPATI]
 * **Fun Fact:** [KEBAL_AMERICANO_5_SHOOT]
 
-### [12] [264311071] - [ILTIZAM AHMAD SYAHIDA]
+### [71] [264311071] - [ILTIZAM AHMAD SYAHIDA]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311071-ILTIZAM.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [ILTIZAM AHMAD SYAHIDA]
 * **NIM:** [264311071]
@@ -781,7 +781,7 @@
 * **Asal Sekolah:** [SMA_IIS_PSM_MAGETAN]
 * **Fun Fact:** [SUKA_MAIN_FUTSAL,_GAME]
 
-### [13] [264311072] - [IZZATA_WIHANANGKU]
+### [72] [264311072] - [IZZATA_WIHANANGKU]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311072-IJAT.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [IZZATA_WIHANANGKU]
 * **NIM:** [264311072]
@@ -792,7 +792,7 @@
 * **Asal Sekolah:** [SMKN_1_JENANGAN_PONOROGO]
 * **Fun Fact:** [MALAS_NGODING]
 
-### [14] [264311073] - [JALALLUDDIN_AZ-ZAM_ZAMI_IBNU_SUTA]
+### [73] [264311073] - [JALALLUDDIN_AZ-ZAM_ZAMI_IBNU_SUTA]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311073-ZAMI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [JALALLUDDIN_AZ-ZAM_ZAMI_IBNU_SUTA]
 * **NIM:** [264311073]
@@ -803,7 +803,7 @@
 * **Asal Sekolah:** [SMKN_1_GEGER]
 * **Fun Fact:** [GAME_GARIS_KERAS]
 
-### [15] [264311074] - [MAR'ATUS_SOFIANA_AZKIYA]
+### [74] [264311074] - [MAR'ATUS_SOFIANA_AZKIYA]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311074-MARATUS.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [MAR'ATUS_SOFIANA_AZKIYA]
 * **NIM:** [264311074]
@@ -814,7 +814,7 @@
 * **Asal Sekolah:** [SMKN_1_BADEGAN]
 * **Fun Fact:** [SUKA_MOTORAN_SORE_SORE]
 
-### [16] [264311075] - [MUHAMMAD_AHNAF_GHIFARI]
+### [75] [264311075] - [MUHAMMAD_AHNAF_GHIFARI]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311075-AGHIFARI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [MUHAMMAD_AHNAF_GHIFARI]
 * **NIM:** [264311075]
@@ -825,7 +825,7 @@
 * **Asal Sekolah:** [SMAN_1_BOJONG_GEDE]
 * **Fun Fact:** [ASLINYA_RAMAH]
 
-### [17] [264311076] - [MUHAMMAD_ANDY_DWI_SUBANDI]
+### [76] [264311076] - [MUHAMMAD_ANDY_DWI_SUBANDI]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311076-ANDY.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [MUHAMMAD_ANDY_DWI_SUBANDI]
 * **NIM:** [264311076]
@@ -836,7 +836,7 @@
 * **Asal Sekolah:** [SMK_PGRI_2_PONOROGO]
 * **Fun Fact:** [SARAPAN_KOPI_IRENK]
 
-### [18] [264311077] - [MUHAMMAD_ZAKIY_FUADIY]
+### [77] [264311077] - [MUHAMMAD_ZAKIY_FUADIY]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311077-KIYAH.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [MUHAMMAD_ZAKIY_FUADIY]
 * **NIM:** [264311077]
@@ -847,7 +847,7 @@
 * **Asal Sekolah:** [MA_NURUL_HADID]
 * **Fun Fact:** [TIDAK_PERNAH_MEMILIKI_NAMA_PANGGILAN_YANG_SAMA_DI_SETIAP_JENJANG_SEKOLAH]
 
-### [19] [264311078] - [MUTYA_YUWAN_RAMADAHNI]
+### [78] [264311078] - [MUTYA_YUWAN_RAMADAHNI]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM-MUTYA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [MUTYA_YUWAN_RAMADAHNI]
 * **NIM:** [264311078]
@@ -858,7 +858,7 @@
 * **Asal Sekolah:** [SMKN_1_PONOROGO]
 * **Fun Fact:** [SUKA_WARNA_HITAM]
 
-### [20] [264311079] - [NEISYA_GRAZIA_AULIA_FIRDIANTY]
+### [79] [264311079] - [NEISYA_GRAZIA_AULIA_FIRDIANTY]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311079-NEISYA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NEISYA_GRAZIA_AULIA_FIRDIANTY]
 * **NIM:** [264311079]
@@ -869,7 +869,18 @@
 * **Asal Sekolah:** [SMA_WACHID_HASYIM_2]
 * **Fun Fact:** [SUKA_NA_JAEMIN_+_CINTA_ITS]
 
-### [21] [264311081] - [PUTRI_NURHALIZA]
+### [80] [264311080] - [Nova]
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311080-NOVA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** Nova
+* **NIM:** 264311080
+* **TTL:** Bojonegoro, 3 November 2007
+* **Nomer Handphone:** 085812498067
+* **Nama Kelompok:** Vue
+* **Asal Daerah:** Bojonegoro
+* **Asal Sekolah:** SMKN MARGOMULYO
+* **Fun Fact:** SUKA NYANYI SAAT MANDI
+
+### [81] [264311081] - [PUTRI_NURHALIZA]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311081-PUTRI.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [PUTRI_NURHALIZA]
 * **NIM:** [264311081]
@@ -880,7 +891,7 @@
 * **Asal Sekolah:** [SMAN_2_Mejayan]
 * **Fun Fact:** [PACARKU_BANYAKKKKKKK]
 
-### [22] [264311082] - [R. NABIL WIJAYA_PRATAMA]
+### [82] [264311082] - [R. NABIL WIJAYA_PRATAMA]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311082-NABIL.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [R._NABIL_WIJAYA_PRATAMA]
 * **NIM:** [264311082]
@@ -891,7 +902,7 @@
 * **Asal Sekolah:** [SMA_PRESTASI_PRIMA]
 * **Fun Fact:** [SUKA_WHEN_YAH]
 
-### [23] [264311083] - [SATRIA_PANDU_ADMAJA]
+### [83] [264311083] - [SATRIA_PANDU_ADMAJA]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311083-SATRIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [SATRIA_PANDU_ADMAJA]
 * **NIM:** [264311083]
@@ -902,7 +913,7 @@
 * **Asal Sekolah:** [SMAN_1_BALONG]
 * **Fun Fact:** [SUKA_NGEGAME]
 
-### [24] [264311085] - [SYAHGA_REYHAN_SURYA_PRATAMA]
+### [85] [264311085] - [SYAHGA_REYHAN_SURYA_PRATAMA]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311085-SYAHGA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [SYAHGA_REYHAN_SURYA_PRATAMA]
 * **NIM:** [264311085]
@@ -913,7 +924,7 @@
 * **Asal Sekolah:** [SMKN_TAKERAN]
 * **Fun Fact:** [SUKA_MENDENGRKAN_MUSIK]
 
-### [25] [264311086] - [VICKY_ADITYA_SURYA_SAMUDRA]
+### [86] [264311086] - [VICKY_ADITYA_SURYA_SAMUDRA]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311086-GEPENG.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [VICKY_ADITYA_SURYA_SAMUDRA]
 * **NIM:** [264311086]
@@ -924,7 +935,7 @@
 * **Asal Sekolah:** [SMAN_4_MADIUN]
 * **Fun Fact:** [MEMEMLIHARA_KAMBING]
 
-### [26] [264311087] - [YAYA_WINDA_SALMA]
+### [87] [264311087] - [YAYA_WINDA_SALMA]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311087-YAYA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [YAYA_WINDA_SALMA]
 * **NIM:** [264311087]
@@ -935,7 +946,7 @@
 * **Asal Sekolah:** [SMAN_1_MAOSPATI]
 * **Fun Fact:** [SUKA_GAMBAR]
 
-### [27] [264311088] - [ZIDAN_ZARAKHI_RIDWAN_HABIBI]
+### [88] [264311088] - [ZIDAN_ZARAKHI_RIDWAN_HABIBI]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311088-ZIDAN.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [ZIDAN_ZARAKHI_RIDWAN_HABIBI]
 * **NIM:** [264311088]
