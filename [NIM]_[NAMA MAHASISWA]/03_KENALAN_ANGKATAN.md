@@ -71,7 +71,7 @@
 * **Fun Fact:** [TIDA_SUKA_MAKANAN_PEDAS]
 
 ### [07] [264311007] - [AURELYSTA_BUNGA_DHIAS_MAWARNI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311007 - AURELYSTA_BUNGA_DHIAS_MAWARNI.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311007_Aurelysia.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [AURELYSTA_BUNGA_DHIAS_MAWARNI]
 * **NIM:** [264311007]
 * **TTL:** [MOJOKERTO_25_JUNI_2007]
