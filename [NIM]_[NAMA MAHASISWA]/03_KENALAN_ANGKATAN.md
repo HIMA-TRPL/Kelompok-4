@@ -915,7 +915,7 @@
 * **Fun Fact:** [SUKA_MENDENGRKAN_MUSIK]
 
 ### [83] [264311086] - [VICKY_ADITYA_SURYA_SAMUDRA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311086 - VICKY_ADITYA_SURYA_SAMUDRA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311086_Vicky.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [VICKY_ADITYA_SURYA_SAMUDRA]
 * **NIM:** [264311086]
 * **TTL:** [MADIUN,_1_JULI_2007]
