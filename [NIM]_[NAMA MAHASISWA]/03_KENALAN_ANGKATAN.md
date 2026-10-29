@@ -567,6 +567,17 @@
 * **Asal Daerah:** KAB.MADIUN
 * **Asal Sekolah:** SMAN 1 DAGANGAN
 * **Fun Fact:** rispek bgtt
+
+### [54] 264311055 - RAIZZAN ULAYYA TAQQI 
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311055_RAIZZAN.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** RAIZZAN ULAYYA TAQQI 
+* **NIM:** 264311055
+* **TTL:** NGAWI, 01 OKTOBER 2007
+* **Nomer Handphone:** 087778962411
+* **Nama Kelompok:** RAILS
+* **Asal Daerah:** KOTA MADIUN
+* **Asal Sekolah:** SMAN 5 NGLAMES
+* **Fun Fact:** gak suka makan pedas
 ---
 
 ## 🏫 Kelas 1C
