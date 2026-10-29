@@ -405,7 +405,7 @@
 * **Fun Fact:** [DRAKOR_ADDICT]
 
 ### [37] [264311037] - [ANASTASYA_SILVIA_MONICA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311037 - ANASTASYA_SILVIA_MONICA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311037_Anastasya.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [ANASTASYA_SILVIA_MONICA]
 * **NIM:** [264311037]
 * **TTL:** [KOTA_MAGETAN,_5_JUNI_2008]
