@@ -159,7 +159,7 @@
 * **Fun Fact:** suka melukis
 
 ### [15] 264311015 - Fakhriyatul Muzakkina
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311065-CORNELIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311015-FAKHRI.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Fakhriyatul Muzakkina
 * **NIM:** 264311015
 * **TTL:** Probolinggo, 16 Juli 2008
@@ -302,7 +302,7 @@
 * **Fun Fact:** Suka kopag
 
 ### [28] 264311028 - Rhahma Dwi Sekarsari
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311087-YAYA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311028-RHAMA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Rhahma Dwi Sekarsari
 * **NIM:** 264311028
 * **TTL:** Nganjuk, 31 Juli 2008
