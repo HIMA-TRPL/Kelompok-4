@@ -361,7 +361,7 @@
 * **Fun Fact:** [SUKA_HEALING]
 
 ### [33] [264311033] - [AKBAR_PUTRA_PRATAMA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311033 - AKBAR_PUTRA_PRATAMA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311033_Akbar.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [AKBAR_PUTRA_PRATAMA]
 * **NIM:** [264311033]
 * **TTL:** [KOTA_MADIUN,_25_JANUARI_2007]
@@ -438,7 +438,7 @@
 * **Fun Fact:** [HOBI_TURU]
 
 ### [40] [264311040] - [FAIRUZ_NADHIR_RAHMAD]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311040 - FAIRUZ_NADHIR_RAHMAD.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311040_Fairuz.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [FAIRUZ_NADHIR_RAHMAD]
 * **NIM:** [264311040]
 * **TTL:** [KOTA_MADIUN,02_APRIL_2008]
@@ -504,7 +504,7 @@
 * **Fun Fact:** [SUKA_OLAHRAGA,_SUKA_MUSIK]
 
 ### [46] [264311048] - [MUHAMMAD_AMIRUL_HAFIDZ]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311048 - MUHAMMAD_AMIRUL_HAFIDZ.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311048_Hapiz.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [MUHAMMAD_AMIRUL_HAFIDZ]
 * **NIM:** [264311048]
 * **TTL:** [PONOROGO,_06_APRIL_2007]
@@ -515,7 +515,7 @@
 * **Fun Fact:** [AWAS_YA_ITS_TAHUN_DEPAN]
 
 ### [47] [264311049] - [MUHAMMAD_MAHLAYAN]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311049 - MUHAMMAD_MAHLAYAN.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311049_Mahlayan.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [MUHAMMAD_MAHLAYAN]
 * **NIM:** [264311049]
 * **TTL:** [KOTA_MAGETAN_1_JANUARI_2007]
@@ -581,7 +581,7 @@
 * **Fun Fact:** ["HEI!!_ANTEK-ANTEK_FEODALIS_🫵!!!"]
 
 ### [53] [264311055] - [RAIZZAN_ULAYYA_TAQQI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311055 - RAIZZAN_ULAYYA_TAQQI.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311055_Raizzan.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [RAIZZAN_ULAYYA_TAQQI]
 * **NIM:** [264311055]
 * **TTL:** [NGAWI,_01_OKTOBER_2007]
@@ -592,7 +592,7 @@
 * **Fun Fact:** [GK_SUKA_MAKAN_PEDES]
 
 ### [54] [264311056] - [RESTU_PRAYUGA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - RESTU_PRAYUGA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311056_Restu.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [RESTU_PRAYUGA]
 * **NIM:** [264311056]
 * **TTL:** [PONOROGO,_19_JANUARI_2008]
@@ -603,7 +603,7 @@
 * **Fun Fact:** [FANS_KING_EMYU]
 
 ### [55] [264311057] - [ROEFANDO_ADJI_RAMADHAN]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311057 - ROEFANDO_ADJI_RAMADHAN.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311057_Roefando.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [ROEFANDO_ADJI_RAMADHAN]
 * **NIM:** [264311057]
 * **TTL:** [JAKARTA,_10_OKTOBER_2007]
