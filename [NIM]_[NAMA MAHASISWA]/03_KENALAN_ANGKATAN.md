@@ -126,7 +126,7 @@
 * **Fun Fact:** [RACING_ABIEZ]
 
 ### [12] [264311012] - [DIMAS_PRAMODYA_BAGASKARA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311012 - DIMAS_PRAMODYA_BAGASKARA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311012_Dimas.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [DIMAS_PRAMODYA_BAGASKARA]
 * **NIM:** [264311012]
 * **TTL:** [PONOROGO,_05_MEI_2008]
