@@ -258,7 +258,7 @@
 * **Fun Fact:** [LAGI_REWATCH_MARVEL💚]
 
 ### [24] [264311024] - [NGAZIMATUL_KHUSNA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311024 - NGAZIMATUL_KHUSNA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311024_Ngazimatul.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NGAZIMATUL_KHUSNA]
 * **NIM:** [264311024]
 * **TTL:** [NGAWI,_12_JULI_2007]
