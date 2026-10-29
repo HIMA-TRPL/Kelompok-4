@@ -492,7 +492,7 @@
 * **Fun Fact:** LIKEE KOPII LIKEE TIDUR NGGA LIKE PANASS
 
 ### [44] 264311045 - KEYLILA EDENIA VINCA SUSANTO   
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311045_KEYLILA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311045_KEYLILA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** KEYLILA EDENIA VINCA SUSANTO
 * **NIM:** 264311045
 * **TTL:** KOTA MADIUN, 18 AGUSTUS 2007
