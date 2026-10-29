@@ -82,7 +82,7 @@
 * **Fun Fact:** [LOVE_MATCHA_DAN_CAPYBARA💚🤎]
 
 ### [08] [264311008] - [BERTHA_SAMPOERNA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311008 - BERTHA_SAMPOERNA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311008_Bertha.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [BERTHA_SAMPOERNA]
 * **NIM:** [264311008]
 * **TTL:** [NGAWI,_29_JANUARI_2008]
