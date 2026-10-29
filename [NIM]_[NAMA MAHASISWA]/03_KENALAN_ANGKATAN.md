@@ -460,7 +460,7 @@
 * **Fun Fact:** [JADI_BACKBURNER]
 
 ### [42] [264311044] - [HEKSA_ABDILLAH_AL_GHOFAR]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311044 - HEKSA_ABDILLAH_AL_GHOFAR.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311044_Heksa.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [HEKSA_ABDILLAH_AL_GHOFAR]
 * **NIM:** [264311044]
 * **TTL:** [BREBES,08,APRIL,2008]
