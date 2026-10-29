@@ -848,7 +848,7 @@
 * **Fun Fact:** [TIDAK_PERNAH_MEMILIKI_NAMA_PANGGILAN_YANG_SAMA_DI_SETIAP_JENJANG_SEKOLAH]
 
 ### [78] [264311078] - [MUTYA_YUWAN_RAMADAHNI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM-MUTYA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311078-MUTYA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [MUTYA_YUWAN_RAMADAHNI]
 * **NIM:** [264311078]
 * **TTL:** [PONOROGO,_6_OKTOBER_2007]
@@ -869,7 +869,7 @@
 * **Asal Sekolah:** [SMA_WACHID_HASYIM_2]
 * **Fun Fact:** [SUKA_NA_JAEMIN_+_CINTA_ITS]
 
-### [80] [264311080] - [Nova]
+### [80] [264311080] - [NOVA]
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311080-NOVA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Nova
 * **NIM:** 264311080
@@ -881,7 +881,7 @@
 * **Fun Fact:** SUKA NYANYI SAAT MANDI
 
 ### [81] [264311081] - [PUTRI_NURHALIZA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311081-PUTRI.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311081-PUTRI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [PUTRI_NURHALIZA]
 * **NIM:** [264311081]
 * **TTL:** [MADIUN,_8_JUNI_2007]
