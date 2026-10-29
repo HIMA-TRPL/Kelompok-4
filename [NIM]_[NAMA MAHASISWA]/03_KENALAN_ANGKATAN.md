@@ -115,7 +115,7 @@
 * **Fun Fact:** [COOL]
 
 ### [11] [264311011] - [DHAFIN_HASYA_ZAKI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311011 - DHAFIN_HASYA_ZAKI.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311011_Dhafin.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [DHAFIN_HASYA_ZAKI]
 * **NIM:** [264311011]
 * **TTL:** [MADIUN,_28_JULI_2007]
