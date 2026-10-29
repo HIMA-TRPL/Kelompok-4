@@ -93,7 +93,7 @@
 * **Fun Fact:** [TIDAK_ADA]
 
 ### [09] [264311009] - [BRAMANTA_SETYA_BAGASKARA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311009 - BRAMANTA_SETYA_BAGASKARA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311009_Bramanta.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [BRAMANTA_SETYA_BAGASKARA]
 * **NIM:** [264311009]
 * **TTL:** [MALANG,_24_NOVEMBER_2007]
