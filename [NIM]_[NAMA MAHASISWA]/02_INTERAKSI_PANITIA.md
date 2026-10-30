@@ -48,7 +48,7 @@
 * <img src="assets/PANITIA/BPH/BPH - Alivia Rizka Wardani.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Alivia Rizka Wardani
 * **Jabatan:** Bendahara 1
-* **TTL:** Ngawi, 12, September, 2007
+* **TTL:** Ngawi, 12 September 2007
 * **Nomer Handphone:** 08819699823
 * **Username GitHub:** @aliviarizz
 * **Asal Daerah:** Ngawi
@@ -56,7 +56,7 @@
 
 ### [06] BPH - Dhea Novika
 * <img src="assets/PANITIA/BPH/BPH - Dhea Novika.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Dhea Novika.
+* **Nama Panitia:** Dhea Novika
 * **Jabatan:** Bendahara 2
 * **TTL:** Madiun, 13 November 2006
 * **Nomer Handphone:** 085648516993
@@ -94,7 +94,7 @@
 * **TTL:** Madiun, 01 Januari 2007
 * **Nomer Handphone:** 081977285545
 * **Username GitHub:** @fadlukkr
-* **Asal Daerah:** CarubanZ
+* **Asal Daerah:** Caruban
 <!-- Line Comment TTD Panitia 09 wajib ditargetkan pada baris komentar ini -->
 
 ### [10] Dagri - Azza Maulidya Wardani
@@ -111,13 +111,13 @@
 * <img src="assets/PANITIA/Dagri/Dagri - Bangkit Cahya Linuwih.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Bangkit Cahya Linuwih
 * **Jabatan:** staff
-* **TTL:** Pacitan 02, April, 2006
+* **TTL:** Pacitan, 02 April 2006
 * **Nomer Handphone:** 081230227986
 * **Username GitHub:** @Bangkitcahyalinuwih
 * **Asal Daerah:** Pacitan
 <!-- Line Comment TTD Panitia 11 wajib ditargetkan pada baris komentar ini -->
 
-### [12] Dagri - Nadia Tifara S.
+### [12] Dagri - Nadia Tifara Sidiq
 * <img src="assets/PANITIA/Dagri/Dagri - Nadia Tifara Sidiq.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Nadia Tifara Sidiq
 * **Jabatan:** staff
@@ -207,10 +207,10 @@
 * <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina P..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Rindy Cantika Agustina P.
 * **Jabatan:** PSDM
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* **TTL:** Madiun, 31 Agustus 2006
+* **Nomer Handphone:** 081553111275
+* **Username GitHub:** @111ndy
+* **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 20 wajib ditargetkan pada baris komentar ini -->
 
 ### [21] PSDM - Abdul Aziz Mushthofa
@@ -227,7 +227,7 @@
 * <img src="assets/PANITIA/PSDM/PSDM - Tiara Maya Lestari.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Tiara Maya Lestari
 * **Jabatan:** Anggota PSDM
-* **TTL:** Nganjuk, 11 Maret 06
+* **TTL:** Nganjuk, 11 Maret 2006
 * **Nomer Handphone:** 089508724968
 * **Username GitHub:** @tmlmaya
 * **Asal Daerah:** Nganjuk
@@ -250,7 +250,7 @@
 * <img src="assets/PANITIA/Sosma/Sosma - Anggi Wahyu Saputra.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Anggi Wahyu Saputra
 * **Jabatan:** Koor Sosma
-* **TTL:** Tulungagung, 14 Juni 05
+* **TTL:** Tulungagung, 14 Juni 2005
 * **Nomer Handphone:** 081935495314
 * **Username GitHub:** @anggiwahyu88
 * **Asal Daerah:** Tulungagung
@@ -269,7 +269,7 @@
 ### [26] Sosma - Edwin Nur Cahyo
 * <img src="assets/PANITIA/Sosma/Sosma - Edwin Nur Cahyo.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Edwin Nur Cahyo
-* **Jabatan:** Anggota*
+* **Jabatan:** Anggota
 * **TTL:** Madiun, 1 November 2007
 * **Nomer Handphone:** 082334500709
 * **Username GitHub:** @edwinyxxz
@@ -289,7 +289,7 @@
 ### [28] Sosma - Lutfilah Ahmad
 * <img src="assets/PANITIA/Sosma/Sosma - Lutfilah Ahmad.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Lutfilah Ahmad
-* **Jabatan:** Staf Muda*
+* **Jabatan:** Staf Muda
 * **TTL:** Magetan, 30 Januari 2007
 * **Nomer Handphone:** 085895773246
 * **Username GitHub:** @lutfilahh
@@ -302,7 +302,7 @@
 ### [29] PDD - Ardhana Syah Hidayat
 * <img src="assets/PANITIA/PDD/PDD - Ardhana Syah Hidayat.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Ardhana Syah Hidayat
-* **Jabatan:** Korodinator
+* **Jabatan:** Koordinator
 * **TTL:** Ponorogo, 27 Desember 2005
 * **Nomer Handphone:** 085724360447
 * **Username GitHub:** @Ardhana-Hidayat
@@ -313,7 +313,7 @@
 * <img src="assets/PANITIA/PDD/PDD - Raditya Alfareeza Purnama.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Raditya Alfareeza Purnama
 * **Jabatan:** Staff
-* **TTL:** Madiun, 4 maret 2006
+* **TTL:** Madiun, 4 Maret 2006
 * **Nomer Handphone:** 085784030358
 * **Username GitHub:** @radityaalfareza
 * **Asal Daerah:** Madiun
@@ -323,10 +323,10 @@
 * <img src="assets/PANITIA/PDD/PDD - Raihan Firdaus Alfaritsi.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Raihan Firdaus Alfaritsi
 * **Jabatan:** Staff
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* **TTL:** Ngawi, 24 September 2005
+* **Nomer Handphone:** 0895405971849
+* **Username GitHub:** @hannnzu
+* **Asal Daerah:** Ngawi
 <!-- Line Comment TTD Panitia 31 wajib ditargetkan pada baris komentar ini -->
 
 ### [32] PDD - Achmad Alvin Al Falah
@@ -342,7 +342,7 @@
 ### [33] PDD - Daffa Hafist Atha Kuncoro
 * <img src="assets/PANITIA/PDD/PDD - Daffa Hafist Atha Kuncoro.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Daffa Hafist Atha Kuncoro
-* **Jabatan:** Staff muda*
+* **Jabatan:** Staff muda
 * **TTL:** Surabaya, 16 Januari 2007
 * **Nomer Handphone:** 081329827262
 * **Username GitHub:** @Hafist-ak08
@@ -403,7 +403,7 @@
 <!-- Line Comment TTD Panitia 38 wajib ditargetkan pada baris komentar ini -->
 
 ### [39] DKM - Silfina Nur Fadilah
-* <img src="assets/PANITIA/DKM/DKM - Sillina Nur Fadilah.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM - Silfina Nur Fadilah.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Silfina Nur Fadilah
 * **Jabatan:** Anggota DKM
 * **TTL:** Magetan, 02 Oktober 2006
@@ -446,7 +446,7 @@
 <!-- Line Comment TTD Panitia 41 wajib ditargetkan pada baris komentar ini -->
 
 ### [42] Volunteer - Aisyah Nur Fadillah
-* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - Aisyah Nur Fadilah.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - Aisyah Nur Fadillah.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Aisyah Nur Fadillah
 * **Jabatan:** Volunteer
 * **TTL:** Magetan, 21 September 2006
@@ -480,7 +480,17 @@
 * **Nama Panitia:** Ervindy Anjuni Nurmasari
 * **Jabatan:** Volunteer
 * **TTL:** Madiun, 21 Juni 2006
-* **Nomer Handphone:** -
+* **Nomer Handphone:** 085733213487
 * **Username GitHub:** @erov1n
 * **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
+
+### [46] Volunteer - Galang Surya Prasetyo
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - Galang Surya Prasetyo.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** Galang Surya Prasetyo
+* **Jabatan:** Volunteer
+* **TTL:** Tenggarong, 19 Februari 2007
+* **Nomer Handphone:** 081247074623
+* **Username GitHub:**  @PrassHere
+* **Asal Daerah:** Kalimantan Timur
+<!-- Line Comment TTD Panitia 46 wajib ditargetkan pada baris komentar ini -->
