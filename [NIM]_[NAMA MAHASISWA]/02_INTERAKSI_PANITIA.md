@@ -413,7 +413,7 @@
 ## 🏛️ Volunteer
 
 ### [39] Volunteer - Septian Angga Saputra
-- <img src="assets/PANITIA/Volunteer/Volunteer - Septian Angga Saputra.jpeg" alt="Septian Angga Saputra" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/Volunteer/VOLUNTEER - SEPTIAN ANGGA SAPUTRA.jpeg" alt="Septian Angga Saputra" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Septian Angga Saputra
 - **Jabatan:** Volunteer
 - **TTL:** Ponorogo, 12 September 2006
@@ -423,7 +423,7 @@
 <!-- Line Comment TTD Panitia 39 wajib ditargetkan pada baris komentar ini -->
 
 ### [40] Volunteer - Indah Ayu Astuti
-- <img src="assets/PANITIA/Volunteer/Volunteer - Indah Ayu Astuti.png" alt="Indah Ayu Astuti" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/Volunteer/VOLUNTEER - INDAH AYU ASTUTI.jpeg" alt="Indah Ayu Astuti" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Indah Ayu Astuti
 - **Jabatan:** Volunteer
 - **TTL:** Ponorogo, 27 Desember 2006
