@@ -413,7 +413,7 @@
 ## 🏛️ Volunteer
 
 ### [39] Volunteer - Septian Angga Saputra
-- <img src="assets/PANITIA/Volunteer/Volunteer - Septian Angga Saputra.png" alt="Septian Angga Saputra" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/Volunteer/Volunteer - Septian Angga Saputra.jpeg" alt="Septian Angga Saputra" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Septian Angga Saputra
 - **Jabatan:** Volunteer
 - **TTL:** Ponorogo, 12 September 2006
@@ -473,7 +473,7 @@
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
 ### [45] Volunteer - Nadyanadya nur Kamila
-- <img src="assets/PANITIA/Volunteer/Volunteer - Nadyanadya nur Kamila.png" alt="Nadyanadya nur Kamila" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/Volunteer/Volunteer - Nadyanadya nur Kamila.jpeg" alt="Nadyanadya nur Kamila" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Nadyanadya nur Kamila
 - **Jabatan:** Volunteer 
 - **TTL:** Madiun, 1 September 2006
