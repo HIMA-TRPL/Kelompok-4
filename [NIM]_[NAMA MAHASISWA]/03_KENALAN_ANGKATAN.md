@@ -888,18 +888,7 @@
 * **Asal Sekolah:** SMKN MARGOMULYO
 * **Fun Fact:** SUKA NYANYI SAAT MANDI
 
-### 81 264311081 - Putri Nurhaliza
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311081_Putri Nurhaliza.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** Putri Nurhaliza
-* **NIM:** 264311081
-* **TTL:** Madiun, 8 Juni 2007
-* **Nomer Handphone:** 087816250793
-* **Nama Kelompok:** Angular
-* **Asal Daerah:** Madiun
-* **Asal Sekolah:** SMAN 2 MEJAYAN
-* **Fun Fact:** Pacarku banyakkkkkkk
-
-### 82 264311082 - R. Nabil Wijaya Pratama
+### 81 264311082 - R. Nabil Wijaya Pratama
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311082_R. Nabil Wijaya Pratama.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** R. Nabil Wijaya Pratama
 * **NIM:** 264311082
@@ -910,7 +899,7 @@
 * **Asal Sekolah:** SMA PRESTASI PRIMA
 * **Fun Fact:** SUKA WHEN YAH
 
-### 83 264311083 - Satria Pandu Admaja
+### 82 264311083 - Satria Pandu Admaja
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311083_Satria Pandu Admaja.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Satria Pandu Admaja
 * **NIM:** 264311083
@@ -921,7 +910,7 @@
 * **Asal Sekolah:** SMAN 1 BALONG
 * **Fun Fact:** SUKA NGEGAME
 
-### 84 264311085 - Syahga Reyhan Surya Pratama
+### 83 264311085 - Syahga Reyhan Surya Pratama
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311085_Syahga Reyhan Surya Pratama.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Syahga Reyhan Surya Pratama
 * **NIM:** 264311085
@@ -932,7 +921,7 @@
 * **Asal Sekolah:** SMKN TAKERAN
 * **Fun Fact:** SUKA MENDENGRKAN MUSIK
 
-### 85 264311086 - Vicky Aditya Surya Samudra
+### 84 264311086 - Vicky Aditya Surya Samudra
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311086_Vicky Aditya Surya Samudra.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Vicky Aditya Surya Samudra
 * **NIM:** 264311086
@@ -943,7 +932,7 @@
 * **Asal Sekolah:** SMAN 4 MADIUN
 * **Fun Fact:** Memelihara Kambing
 
-### 86 264311087 - Yaya Winda Salma
+### 85 264311087 - Yaya Winda Salma
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311087_Yaya Winda Salma.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Yaya Winda Salma
 * **NIM:** 264311087
@@ -954,7 +943,7 @@
 * **Asal Sekolah:** SMAN 1 MAOSPATI
 * **Fun Fact:** suka gambar
 
-### 87 264311088 - Zidan Zarakhi Ridwan Habibi
+### 86 264311088 - Zidan Zarakhi Ridwan Habibi
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311088_Zidan Zarakhi Ridwan Habibi.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Zidan Zarakhi Ridwan Habibi
 * **NIM:** 264311088
