@@ -859,18 +859,9 @@
 * **Asal Sekolah:** MA NURUL HADID
 * **Fun Fact:** Tidak Pernah Memiliki Nama Panggilan Yang Sama Di Setiap Jenjang Sekolah
 
-### 78 264311078 - Mutya Yuwan Ramadahni
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** Mutya Yuwan Ramadahni
-* **NIM:** 264311078
-* **TTL:** Ponorogo, 6 Oktober 2007
-* **Nomer Handphone:** 088801521950
-* **Nama Kelompok:** Angular
-* **Asal Daerah:** Ponorogo
-* **Asal Sekolah:** SMKN 1 PONOROGO
-* **Fun Fact:** Suka warna hitam
 
-### 79 264311079 - Neisya Grazia Aulia Firdianty
+
+### 78 264311079 - Neisya Grazia Aulia Firdianty
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311079-NINEISYA_GRAZIA_AULIA_FIRDIANTY.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Neisya Grazia Aulia Firdianty
 * **NIM:** 264311079
@@ -881,7 +872,7 @@
 * **Asal Sekolah:** SMA WACHID HASYIM 2
 * **Fun Fact:** SUKA NA JAEMIN + CINTA ITS
 
-### 80 264311080 - Nova
+### 79 264311080 - Nova
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311080-NOVA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Nova
 * **NIM:** 264311080
@@ -892,7 +883,7 @@
 * **Asal Sekolah:** SMKN MARGOMULYO
 * **Fun Fact:** SUKA NYANYI SAAT MANDI
 
-### 81 264311081 - Putri Nurhaliza
+### 80 264311081 - Putri Nurhaliza
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311081-PUTRI_NURHALIZA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Putri Nurhaliza
 * **NIM:** 264311081
@@ -903,7 +894,7 @@
 * **Asal Sekolah:** SMAN 2 MEJAYAN
 * **Fun Fact:** Pacarku banyakkkkkkk
 
-### 82 264311082 - R. Nabil Wijaya Pratama
+### 81 264311082 - R. Nabil Wijaya Pratama
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311082-R._NABIL_WIJAYA_PRATAMA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** R. Nabil Wijaya Pratama
 * **NIM:** 264311082
@@ -914,7 +905,7 @@
 * **Asal Sekolah:** SMA PRESTASI PRIMA
 * **Fun Fact:** SUKA WHEN YAH
 
-### 83 264311083 - Satria Pandu Admaja
+### 82 264311083 - Satria Pandu Admaja
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311083-SATRIA_PANDU_ADMAJA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Satria Pandu Admaja
 * **NIM:** 264311083
@@ -925,7 +916,7 @@
 * **Asal Sekolah:** SMAN 1 BALONG
 * **Fun Fact:** SUKA NGEGAME
 
-### 84 264311085 - Syahga Reyhan Surya Pratama
+### 83 264311085 - Syahga Reyhan Surya Pratama
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311085-SYAHGA_REYHAN_SURYA_PRATAMA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Syahga Reyhan Surya Pratama
 * **NIM:** 264311085
@@ -936,7 +927,7 @@
 * **Asal Sekolah:** SMKN TAKERAN
 * **Fun Fact:** SUKA MENDENGRKAN MUSIK
 
-### 85 264311086 - Vicky Aditya Surya Samudra
+### 84 264311086 - Vicky Aditya Surya Samudra
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311086-VICKY_ADITYA_SURYA_SAMUDRA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Vicky Aditya Surya Samudra
 * **NIM:** 264311086
@@ -947,7 +938,7 @@
 * **Asal Sekolah:** SMAN 4 MADIUN
 * **Fun Fact:** Memelihara Kambing
 
-### 86 264311087 - Yaya Winda Salma
+### 85 264311087 - Yaya Winda Salma
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311087-YAYA_WINDA_SALMA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Yaya Winda Salma
 * **NIM:** 264311087
@@ -958,7 +949,7 @@
 * **Asal Sekolah:** SMAN 1 MAOSPATI
 * **Fun Fact:** suka gambar
 
-### 87 264311088 - Zidan Zarakhi Ridwan Habibi
+### 86 264311088 - Zidan Zarakhi Ridwan Habibi
 * <img src="assets/MAHASISWA_BARU/Kelas_1C/264311088-ZIDAN_ZARAKHI_RIDWAN_HABIBI.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Zidan Zarakhi Ridwan Habibi
 * **NIM:** 264311088
