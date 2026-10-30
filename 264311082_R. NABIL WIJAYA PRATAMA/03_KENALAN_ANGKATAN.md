@@ -247,7 +247,7 @@
 * **Fun Fact:** [wallahualam😊🩵]
 
 ### [23] [264311023] - [NASHWA NADIA NURLATIFA]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311022 - NAILA AZAHRA FITRI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311023 - NASHWA NADIA NURLATIFA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [NASHWA NADIA NURLATIFA]
 * **NIM:** [264311023]
 * **TTL:** [BOJONEGORO, 31 MARET 2008]
@@ -256,6 +256,83 @@
 * **Asal Daerah:** [BOJONEGORO]
 * **Asal Sekolah:** [SMAN 5 TARUNA BRAWIJAYA]
 * **Fun Fact:** [lagi rewatch marvel💚]
+
+### [24] [264311024] - [NGAZIMATUL KHUSNA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311024 - NGAZIMATUL KHUSNA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NGAZIMATUL KHUSNA]
+* **NIM:** [264311024]
+* **TTL:** [NGAWI, 12 JULI 2007]
+* **Nomer Handphone:** [085737034383]
+* **Nama Kelompok:** [SVELTE]
+* **Asal Daerah:** [NGAWI]
+* **Asal Sekolah:** [MAS  AL-ISLAM JORESAN PONOROGO]
+* **Fun Fact:** [bisa tidur berdiri]
+
+### [25] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
+* **NIM:** [NIM_MAHASISWA_BARU]
+* **TTL:** [TTL_MAHASISWA_BARU]
+* **Nomer Handphone:** [NOMER_HANDPHONE]
+* **Nama Kelompok:** [NAMA_KELOMPOK]
+* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Asal Sekolah:** [ASAL_SEKOLAH]
+* **Fun Fact:** [FUN_FACT]
+
+### [26] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
+* **NIM:** [NIM_MAHASISWA_BARU]
+* **TTL:** [TTL_MAHASISWA_BARU]
+* **Nomer Handphone:** [NOMER_HANDPHONE]
+* **Nama Kelompok:** [NAMA_KELOMPOK]
+* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Asal Sekolah:** [ASAL_SEKOLAH]
+* **Fun Fact:** [FUN_FACT]
+
+### [27] [264311027] - [REZA SURYA KURNIAWAN]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311027 - REZA SURYA KURNIAWAN.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [REZA SURYA KURNIAWAN]
+* **NIM:** [264311027]
+* **TTL:** [Magetan, 28 Maret 2007]
+* **Nomer Handphone:** [0895395151012]
+* **Nama Kelompok:** [SYMFONY]
+* **Asal Daerah:** [MAGETAN]
+* **Asal Sekolah:** [SMAN 2 KOTA MADIUN]
+* **Fun Fact:** [Suka kopag]
+
+### [28] [264311028] - [RHAHMA DWI SEKARSARI]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311028 - RHAHMA DWI SEKARSARI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [RHAHMA DWI SEKARSARI]
+* **NIM:** [264311028]
+* **TTL:** [NGANJUK, 31 JULI 2008]
+* **Nomer Handphone:** [085852424110]
+* **Nama Kelompok:** [SVELTE]
+* **Asal Daerah:** [NGANJUK]
+* **Asal Sekolah:** [SMKN 1 LENGKONG]
+* **Fun Fact:** [MINUM TEH GABISA TIDUR]
+
+### [29] [264311029] - [RIFQI ADYASTA MAHARDIKA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311029 - RIFQI ADYASTA MAHARDIKA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [RIFQI ADYASTA MAHARDIKA]
+* **NIM:** [264311029]
+* **TTL:** [BOJONEGORO, 19 SEPTEMBER 2008]
+* **Nomer Handphone:** [085335808840]
+* **Nama Kelompok:** [LARAVEL]
+* **Asal Daerah:** [BOJONEGRO]
+* **Asal Sekolah:** [SMAN 1 KASIMAN]
+* **Fun Fact:** [pengen jago vibe coding]
+
+### [30] [264311030] - [ZAHRO CHOIRUN LATIFAH]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311030 - ZAHRO CHOIRUN LATIFAH.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [ZAHRO CHOIRUN LATIFAH]
+* **NIM:** [264311030]
+* **TTL:** [MADIUN, 15 MEI 2007]
+* **Nomer Handphone:** [089622274040]
+* **Nama Kelompok:** [LARAVEL]
+* **Asal Daerah:** [MADIUN]
+* **Asal Sekolah:** [MAN 1 KOTA MADIUN]
+* **Fun Fact:** [INTROVERT]
 
 ---
 
