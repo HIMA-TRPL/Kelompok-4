@@ -191,6 +191,72 @@
 * **Asal Sekolah:** [SMK SENOPATI SIDOARJO]
 * **Fun Fact:** [SUKA BUBUDUDU]
 
+### [18] [NIM] - [NAMA_LENGKAP_MAHASISWA_BARU]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
+* **NIM:** [NIM_MAHASISWA_BARU]
+* **TTL:** [TTL_MAHASISWA_BARU]
+* **Nomer Handphone:** [NOMER_HANDPHONE]
+* **Nama Kelompok:** [NAMA_KELOMPOK]
+* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Asal Sekolah:** [ASAL_SEKOLAH]
+* **Fun Fact:** [FUN_FACT]
+
+### [19] [264311019] - [KHANSA QAIS FERNANDA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311019 - KHANSA QAIS FERNANDA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [KHANSA QAIS FERNANDA]
+* **NIM:** [264311019]
+* **TTL:** [MADIUN,21 FEBRUARI 2008]
+* **Nomer Handphone:** [083171456397]
+* **Nama Kelompok:** [SPRING]
+* **Asal Daerah:** [MADIUN]
+* **Asal Sekolah:** [SMKN 1 WONOASRI]
+* **Fun Fact:** [JAGO GITAR]
+
+### [20] [264311020] - [MAHIJA PARAMA URDHA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311020 - MAHIJA PARAMA URDHA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [MAHIJA PARAMA URDHA]
+* **NIM:** [264311020]
+* **TTL:** [PONOROGO, 11 JANUARI 2008]
+* **Nomer Handphone:** [085812827530]
+* **Nama Kelompok:** [LARAVEL]
+* **Asal Daerah:** [MADIUN]
+* **Asal Sekolah:** [SMKS AL-ISLAM JORESAN PONOROGO]
+* **Fun Fact:** [baik]
+
+### [21] [264311021] - [MUHAMMAD RIDWAN NAZIM]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311021 - MUHAMMAD RIDWAN NAZIM.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [MUHAMMAD RIDWAN NAZIM]
+* **NIM:** [264311021]
+* **TTL:** [JAKARTA, 25 MEI 2007]
+* **Nomer Handphone:** [085807229272]
+* **Nama Kelompok:** [LARAVEL]
+* **Asal Daerah:** [MAGETAN]
+* **Asal Sekolah:** [SMAN 1 BARAT]
+* **Fun Fact:** [dipanggil nengok]
+
+### [22] [264311022] - [NAILA AZAHRA FITRI]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311022 - NAILA AZAHRA FITRI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NAILA AZAHRA FITRI]
+* **NIM:** [264311022]
+* **TTL:** [BOJONEGORO, 10 OKTOBER 2008]
+* **Nomer Handphone:** [081235681140]
+* **Nama Kelompok:** [FLASK]
+* **Asal Daerah:** [BOJONEGORO]
+* **Asal Sekolah:** [SMAN 1 CEPU]
+* **Fun Fact:** [wallahualam😊🩵]
+
+### [23] [264311023] - [NASHWA NADIA NURLATIFA]
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/264311022 - NAILA AZAHRA FITRI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Lengkap:** [NASHWA NADIA NURLATIFA]
+* **NIM:** [264311023]
+* **TTL:** [BOJONEGORO, 31 MARET 2008]
+* **Nomer Handphone:** [083117678815]
+* **Nama Kelompok:** [SPRING]
+* **Asal Daerah:** [BOJONEGORO]
+* **Asal Sekolah:** [SMAN 5 TARUNA BRAWIJAYA]
+* **Fun Fact:** [lagi rewatch marvel💚]
+
 ---
 
 ## 🏫 Kelas 1B
