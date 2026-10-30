@@ -335,7 +335,7 @@
 <!-- Line Comment TTD Panitia 31 wajib ditargetkan pada baris komentar ini -->
 
 ### [32] PDD - Daffa Hafist Atha Kuncoro
-* <img src="assets/PANITIA/PDD/PDD - DAFFA HAFIST ATHA KUNCORO" alt="Daffa Hafist Atha Kuncoro" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/PDD - DAFFA HAFIST ATHA KUNCORO.jpeg" alt="Daffa Hafist Atha Kuncoro" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Daffa Hafist Atha Kuncoro
 * **Jabatan:** Staff Muda
 * **TTL:** Surabaya, 16 Januari 2007
