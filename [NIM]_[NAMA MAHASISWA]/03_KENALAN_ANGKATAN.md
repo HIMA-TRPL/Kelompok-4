@@ -624,7 +624,7 @@
 * **Fun Fact:** FANS KING EMYU
 
 ### [57] 264311058 - Sakhiya Azam Khoirunni'am 
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311058_AZAM.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311058_SAKHIYA.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Sakhiya Azam Khoirunni'am 
 * **NIM:** 264311058
 * **TTL:** PONOROGO, 09 APRIL 2007
