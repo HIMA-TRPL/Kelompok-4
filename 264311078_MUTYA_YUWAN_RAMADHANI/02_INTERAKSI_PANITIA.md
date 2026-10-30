@@ -472,6 +472,16 @@
 - **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
+### [4] Volunteer - Nadyanadya nur Kamila
+- <img src="assets/PANITIA/Volunteer/Volunteer - Nadyanadya nur Kamila.jpeg" alt="Nadyanadya nur Kamila" style="object-fit:cover" width="300px" height="300px">
+- **Nama Panitia:** Nadyanadya nur Kamila
+- **Jabatan:** Volunteer 
+- **TTL:** Madiun, 1 September 2006
+- **Nomer Handphone:** 085731873063
+- **Username GitHub:** @nanayaaa
+- **Asal Daerah:** Madiun
+<!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
+
 ---
 
 ---
