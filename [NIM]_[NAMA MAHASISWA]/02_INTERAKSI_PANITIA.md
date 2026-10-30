@@ -413,63 +413,63 @@
 ## 🏛️ Volunteer
 
 ### [39] Volunteer - Septian Angga Saputra
-* <img src="assets/PANITIA/Volunteer/Volunteer - Septian Angga Saputra.png" alt="Septian Angga Saputra" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Septian Angga Saputra
-* **Jabatan:** Volunteer
-* **TTL:** Ponorogo, 12 September 2006
-* **Nomer Handphone:** 089615148475
-* **Username GitHub:** @Sptangs
-* **Asal Daerah:** Ponorogo
+- <img src="assets/PANITIA/Volunteer/Volunteer - Septian Angga Saputra.jpeg" alt="Septian Angga Saputra" style="object-fit:cover" width="300px" height="300px">
+- **Nama Panitia:** Septian Angga Saputra
+- **Jabatan:** Volunteer
+- **TTL:** Ponorogo, 12 September 2006
+- **Nomer Handphone:** 089615148475
+- **Username GitHub:** @Sptangs
+- **Asal Daerah:** Ponorogo
 <!-- Line Comment TTD Panitia 39 wajib ditargetkan pada baris komentar ini -->
 
 ### [40] Volunteer - Indah Ayu Astuti
-* <img src="assets/PANITIA/Volunteer/Volunteer - Indah Ayu Astuti.png" alt="Indah Ayu Astuti" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Indah Ayu Astuti
-* **Jabatan:** Volunteer
-* **TTL:** Ponorogo, 27 Desember 2006
-* **Nomer Handphone:** 085708935152
-* **Username GitHub:** @IndahAyu27
-* **Asal Daerah:** Ponorogo
+- <img src="assets/PANITIA/Volunteer/Volunteer - Indah Ayu Astuti.png" alt="Indah Ayu Astuti" style="object-fit:cover" width="300px" height="300px">
+- **Nama Panitia:** Indah Ayu Astuti
+- **Jabatan:** Volunteer
+- **TTL:** Ponorogo, 27 Desember 2006
+- **Nomer Handphone:** 085708935152
+- **Username GitHub:** @IndahAyu27
+- **Asal Daerah:** Ponorogo
 <!-- Line Comment TTD Panitia 40 wajib ditargetkan pada baris komentar ini -->
 
 ### [41] Volunteer - Kunni Sofa Rahmayani
-* <img src="assets/PANITIA/Volunteer/Volunteer - Kunni Sofa Rahmayani.png" alt="Kunni Sofa Rahmayani" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Kunni Sofa Rahmayani
-* **Jabatan:** Volunteer
-* **TTL:** Madiun, 04 Juli 2006
-* **Nomer Handphone:** 081357895790
-* **Username GitHub:** @rhmaxyn
-* **Asal Daerah:** Madiun
+- <img src="assets/PANITIA/Volunteer/Volunteer - Kunni Sofa Rahmayani.png" alt="Kunni Sofa Rahmayani" style="object-fit:cover" width="300px" height="300px">
+- **Nama Panitia:** Kunni Sofa Rahmayani
+- **Jabatan:** Volunteer
+- **TTL:** Madiun, 04 Juli 2006
+- **Nomer Handphone:** 081357895790
+- **Username GitHub:** @rhmaxyn
+- **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 41 wajib ditargetkan pada baris komentar ini -->
 
 ### [42] Volunteer - Aisyah Nur Fadillah
-* <img src="assets/PANITIA/Volunteer/Volunteer - Aisyah Nur Fadillah.png" alt="Aisyah Nur Fadillah" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Aisyah Nur Fadillah
-* **Jabatan:** Volunteer (Komdis)
-* **TTL:** Magetan, 21 September 2006
-* **Nomer Handphone:** 082142461742
-* **Username GitHub:** @aisyahnurfadillah
-* **Asal Daerah:** Magetan
+- <img src="assets/PANITIA/Volunteer/Volunteer - Aisyah Nur Fadillah.png" alt="Aisyah Nur Fadillah" style="object-fit:cover" width="300px" height="300px">
+- **Nama Panitia:** Aisyah Nur Fadillah
+- **Jabatan:** Volunteer / Komdis
+- **TTL:** Magetan, 21 September 2006
+- **Nomer Handphone:** 082142461742
+- **Username GitHub:** @aisyahnurfadillah
+- **Asal Daerah:** Magetan
 <!-- Line Comment TTD Panitia 42 wajib ditargetkan pada baris komentar ini -->
 
 ### [43] Volunteer - Nabil Sunu Widya Dhana
-* <img src="assets/PANITIA/Volunteer/Volunteer - Nabil Sunu Widya Dhana.png" alt="Nabil Sunu Widya Dhana" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Nabil Sunu Widya Dhana
-* **Jabatan:** Volunteer
-* **TTL:** Bekasi, 15 Maret 2006
-* **Nomer Handphone:** 089503425359
-* **Username GitHub:** @SunuW
-* **Asal Daerah:** Ponorogo
+- <img src="assets/PANITIA/Volunteer/Volunteer - Nabil Sunu Widya Dhana.png" alt="Nabil Sunu Widya Dhana" style="object-fit:cover" width="300px" height="300px">
+- **Nama Panitia:** Nabil Sunu Widya Dhana
+- **Jabatan:** Volunteer
+- **TTL:** Bekasi, 15 Maret 2006
+- **Nomer Handphone:** 089503425359
+- **Username GitHub:** @SunuW
+- **Asal Daerah:** Ponorogo
 <!-- Line Comment TTD Panitia 43 wajib ditargetkan pada baris komentar ini -->
 
 ### [44] Volunteer - Ervindy Anjuni Nurmasari
-* <img src="assets/PANITIA/Volunteer/Volunteer - Ervindy Anjuni Nurmasari.png" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Ervindy Anjuni Nurmasari
-* **Jabatan:** Volunteer (Konsumsi)
-* **TTL:** Madiun, 21 Juni 2006
-* **Nomer Handphone:** 085733213487
-* **Username GitHub:** @erov1n
-* **Asal Daerah:** Madiun
+- <img src="assets/PANITIA/Volunteer/Volunteer - Ervindy Anjuni Nurmasari.png" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
+- **Nama Panitia:** Ervindy Anjuni Nurmasari
+- **Jabatan:** Volunteer / Sie Konsumsi
+- **TTL:** Madiun, 21 Juni 2006
+- **Nomer Handphone:** 085733213487
+- **Username GitHub:** @erov1n
+- **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
 ---
