@@ -492,6 +492,7 @@
 - **Asal Daerah:** Kalimantan Timur
 <!-- Line Comment TTD Panitia 46 wajib ditargetkan pada baris komentar ini -->
 
+
 ---
 
 ---
