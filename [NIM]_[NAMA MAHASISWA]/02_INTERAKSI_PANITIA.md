@@ -237,10 +237,10 @@
 * <img src="assets/PANITIA/PSDM/PSDM - Azza Auliyaul F..jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Azza Auliyaul F.
 * **Jabatan:** Staff
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* **TTL:** Madiun, 19 November 2005
+* **Nomer Handphone:** 089523358721
+* **Username GitHub:** @azzaauliyaul
+* **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 23 wajib ditargetkan pada baris komentar ini -->
 
 
@@ -334,7 +334,7 @@
 * **Nama Panitia:** Achmad Alvin Al Falah
 * **Jabatan:** Staff
 * **TTL:** Ponorogo, 18 Januari 2006
-* **Nomer Handphone:** 081329827262
+* **Nomer Handphone:** 085230210357
 * **Username GitHub:** @AchmadAlvin
 * **Asal Daerah:** Ponorogo
 <!-- Line Comment TTD Panitia 32 wajib ditargetkan pada baris komentar ini -->
@@ -366,10 +366,10 @@
 * <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Andrian Maulana
 * **Jabatan:** koordinator
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* **TTL:** Ponorogo, 19 Oktober 2005
+* **Nomer Handphone:** 089524151260
+* **Username GitHub:** @driannminaa
+* **Asal Daerah:** Ponorogo
 <!-- Line Comment TTD Panitia 35 wajib ditargetkan pada baris komentar ini -->
 
 ### [36] DKM - Jimli Dwi Assiddiqi
@@ -415,7 +415,7 @@
 
 ## 🏛️ Divisi Volunteer
 
-### [39] Volunteer - Septian Angga Saputra
+### [40] Volunteer - Septian Angga Saputra
 * <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - Septian Angga Saputra.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Septian Angga Saputra
 * **Jabatan:** Volunteer
@@ -425,7 +425,7 @@
 * **Asal Daerah:** Ponorogo
 <!-- Line Comment TTD Panitia 39 wajib ditargetkan pada baris komentar ini -->
 
-### [40] Volunteer - Indah Ayu Astuti
+### [41] Volunteer - Indah Ayu Astuti
 * <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - Indah Ayu Astuti.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Indah Ayu Astuti
 * **Jabatan:** Volunteer
@@ -435,7 +435,7 @@
 * **Asal Daerah:** Ponorogo
 <!-- Line Comment TTD Panitia 40 wajib ditargetkan pada baris komentar ini -->
 
-### [41] Volunteer - Kunnisofa Rahmayanti
+### [42] Volunteer - Kunnisofa Rahmayanti
 * <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - Kunnisofa Rahmayanti.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Kunnisofa Rahmayanti
 * **Jabatan:** Volunteer
@@ -445,7 +445,7 @@
 * **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 41 wajib ditargetkan pada baris komentar ini -->
 
-### [42] Volunteer - Aisyah Nur Fadillah
+### [43] Volunteer - Aisyah Nur Fadillah
 * <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - Aisyah Nur Fadillah.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Aisyah Nur Fadillah
 * **Jabatan:** Volunteer
@@ -455,7 +455,7 @@
 * **Asal Daerah:** Magetan
 <!-- Line Comment TTD Panitia 42 wajib ditargetkan pada baris komentar ini -->
 
-### [43] Volunteer - Nabil Sunu Widya Dhana
+### [44] Volunteer - Nabil Sunu Widya Dhana
 * <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - Nabil Sunu Widya Dhana.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Nabil Sunu Widya Dhana
 * **Jabatan:** Volunteer
@@ -465,7 +465,7 @@
 * **Asal Daerah:** Ponorogo
 <!-- Line Comment TTD Panitia 43 wajib ditargetkan pada baris komentar ini -->
 
-### [44] Volunteer - Nadya Nur Kamila
+### [45] Volunteer - Nadya Nur Kamila
 * <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - Nadya Nur Kamila.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Nadya Nur Kamila
 * **Jabatan:** Volunteer
@@ -475,7 +475,7 @@
 * **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
-### [45] Volunteer - Ervindy Anjuni Nurmasari
+### [46] Volunteer - Ervindy Anjuni Nurmasari
 * <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - Ervindy Anjuni Nurmasari.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Ervindy Anjuni Nurmasari
 * **Jabatan:** Volunteer
@@ -485,12 +485,12 @@
 * **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
 
-### [46] Volunteer - Galang Surya Prasetyo
+### [47] Volunteer - Galang Surya Prasetyo
 * <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - Galang Surya Prasetyo.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Galang Surya Prasetyo
 * **Jabatan:** Volunteer
 * **TTL:** Tenggarong, 19 Februari 2007
 * **Nomer Handphone:** 081247074623
-* **Username GitHub:**  @PrassHere
+* **Username GitHub:** @PrassHere
 * **Asal Daerah:** Kalimantan Timur
 <!-- Line Comment TTD Panitia 46 wajib ditargetkan pada baris komentar ini -->
