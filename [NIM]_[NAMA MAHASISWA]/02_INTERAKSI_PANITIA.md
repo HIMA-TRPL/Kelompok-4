@@ -196,14 +196,14 @@
 * **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 18 wajib ditargetkan pada baris komentar ini -->
 
-### [19] PSDM - Rindy Cantika Agustina P.
-* <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina P..png" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Rindy Cantika Agustina P.
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+### [19] PSDM - RINDY CANTIKA AGUSTINA P.
+* <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina P.jpeg" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** RINDY CANTIKA AGUSTINA P.
+* **Jabatan:**  Anggota PSDM
+* **TTL:**  Denpasar, 21 Maret 2006
+* **Nomer Handphone:**  0895808475151
+* **Username GitHub:**  @danipinion
+* **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 19 wajib ditargetkan pada baris komentar ini -->
 
 ### [20] PSDM - Abdul Aziz Mushthofa
@@ -358,15 +358,16 @@
 
 ## 🏛️ Divisi DKM (Dana & Kewirausahaan Mahasiswa)
 
-### [34] DKM - Andrian Maulana
-* <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.png" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Andrian Maulana
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+### [34] DKM - ANDRIAN MAULANA
+* <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.jpeg" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** ANDRIAN MAULANA
+* **Jabatan:** Koordinator DKM
+* **TTL:**  Ponorogo, 19 September 2005
+* **Nomer Handphone:**  089524151260
+* **Username GitHub:**  @driannmlnaa
+* **Asal Daerah:**   Ponorogo
 <!-- Line Comment TTD Panitia 34 wajib ditargetkan pada baris komentar ini -->
+
 
 ### [35] DKM - Jimli Dwi Assiddiqi
 * <img src="assets/PANITIA/DKM/DKM - JIMLI DWI ASSIDDIQI.jpeg" alt="Jimli Dwi Assiddiqi" style="object-fit:cover" width="300px" height="300px">
