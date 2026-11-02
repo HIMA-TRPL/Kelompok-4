@@ -199,11 +199,11 @@
 ### [19] PSDM - Rindy Cantika Agustina P.
 * <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina P.png" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Rindy Cantika Agustina P.
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* **Jabatan:**  Anggota PSDM
+* **TTL:**  Denpasar, 21 Maret 2006
+* **Nomer Handphone:**  0895808475151
+* **Username GitHub:**  @danipinion
+* **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 19 wajib ditargetkan pada baris komentar ini -->
 
 ### [20] PSDM - Abdul Aziz Mushthofa
