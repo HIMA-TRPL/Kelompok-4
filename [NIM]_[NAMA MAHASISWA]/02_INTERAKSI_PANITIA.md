@@ -472,6 +472,26 @@
 * **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
+### [45] Volunteer - Nadyanadya nur Kamila
+- <img src="assets/PANITIA/Volunteer/Volunteer - Nadyanadya nur Kamila.jpeg" alt="Nadyanadya nur Kamila" style="object-fit:cover" width="300px" height="300px">
+- **Nama Panitia:** Nadyanadya nur Kamila
+- **Jabatan:** Volunteer 
+- **TTL:** Madiun, 1 September 2006
+- **Nomer Handphone:** 085731873063
+- **Username GitHub:** @nanayaaa
+- **Asal Daerah:** Madiun
+<!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
+
+### [46] Volunteer - Galang Surya Prasetyo
+- <img src="assets/PANITIA/Volunteer/Volunteer - Galang Surya Prasetyo.jpeg" alt="Galang Surya Prasetyo" style="object-fit:cover" width="300px" height="300px">
+- **Nama Panitia:** Galang Surya Prasetyo
+- **Jabatan:** Volunteer 
+- **TTL:** Tenggarong, 19 Februari 2007
+- **Nomer Handphone:** 081247074623
+- **Username GitHub:** @PrassHere
+- **Asal Daerah:** Kalimantan Timur
+<!-- Line Comment TTD Panitia 46 wajib ditargetkan pada baris komentar ini -->
+
 ---
 
 ---
