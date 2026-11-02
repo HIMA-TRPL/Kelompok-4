@@ -361,11 +361,11 @@
 ### [34] DKM - Andrian Maulana
 * <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.png" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Andrian Maulana
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* **Jabatan:** Koordinator DKM
+* **TTL:**  Ponorogo, 19 September 2005
+* **Nomer Handphone:**  089524151260
+* **Username GitHub:**  @driannmlnaa
+* **Asal Daerah:**   Ponorogo
 <!-- Line Comment TTD Panitia 34 wajib ditargetkan pada baris komentar ini -->
 
 ### [35] DKM - Jimli Dwi Assiddiqi
